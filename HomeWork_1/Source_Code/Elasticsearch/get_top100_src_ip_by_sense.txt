@@ -1,0 +1,28 @@
+#----------------------------------------------
+# It is run on sense plug in of chrome browser
+# This sample code fetched source IP and 
+# counting Top 100
+#----------------------------------------------
+GET /spam_mail_entity/src_ip/_search
+{
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "range": {
+            "source_IP": {
+              "from": "0.0.0.0",
+              "to": "255.255.255.255"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "aggs": {
+   "Count_of_SourceIP" : {
+    "terms" : { "field" : "source_IP", 
+                "size" : 100}
+   }
+  }
+}
