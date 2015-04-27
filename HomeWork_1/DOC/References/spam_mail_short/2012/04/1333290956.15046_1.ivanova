@@ -1,0 +1,748 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 14788 invoked from network); 1 Apr 2012 14:22:14 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Apr 2012 14:22:14 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Apr 2012 14:22:14 -0000
+Received: (qmail 21505 invoked from network); 1 Apr 2012 14:22:13 -0000
+Received: from nm21-vm1.bullet.mail.ukl.yahoo.com (unknown [217.12.10.33])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 01 Apr 2012 14:22:13 -0000
+Received: from [217.146.183.184] by nm21.bullet.mail.ukl.yahoo.com with NNFMP; 01 Apr 2012 14:22:12 -0000
+Received: from [217.146.183.124] by tm15.bullet.mail.ukl.yahoo.com with NNFMP; 01 Apr 2012 14:22:12 -0000
+Received: from [127.0.0.1] by smtp101.mail.ukl.yahoo.com with NNFMP; 01 Apr 2012 14:22:12 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1333290132; bh=Lh06BLdjKzccrVg88k2CL7e8MGucyHnuGij/VTVj6TU=; h=X-Yahoo-Newman-Id:X-Yahoo-Newman-Property:X-YMail-OSG:X-Yahoo-SMTP:Received:Message-Id:Mime-Version:From:To:Subject:Date:X-Bounce-Tracking-Info:Content-type:Content-transfer-encoding; b=kxTJYSRyFSJCfHSL9Cd3QILG6+AkQh7RqmQpCaNgbAVb606xma0PbWx+TgLUzQRCyRC3fJPanHu448HfsJaQKW1o5jKuzYNUIZWmhz8Jv91pxRcKn4QRl0oIMpsPny++DCnX9fN7Ooix2Q1jDLZaXfm+EaH6xUFvCZiTuDr2nao=
+X-Yahoo-Newman-Id: 451936.59564.bm@smtp101.mail.ukl.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: YuXTn98VM1kmHwuw3jGUTTohMi_CppUOETQQIhVmkiNfu9b
+ dNqyEn6wHrLzdwftz1uLGQilEj0XKQdajOUcBKe96JLd1vu6_r0FkjTmHYx8
+ LjCYVsZ4.NuWL3tLCEVcoYJwe_J4vdzWr1fqwJrBrMI2_DpTgCDfBg56saL_
+ ofWCZT76iMAdqz2aMKaIPkbQi9G0rP.Y.Vn_Awjhs323s7es8qD9GNmPJG6S
+ 1gcRitFXD9UxPMtJVmscpCzzBzNjnI.DpZCFsgyyhix91ftuZJh0hEz1zbag
+ kL_AT0SUEYilxgMyMZuAsR1rahT8tcGkBjv48iE_VONTYJmADyM0mUjjOzux
+ EcxhzjL8DKY8MkFrkTahX4F_3AxQIET.guxk-
+X-Yahoo-SMTP: yGj7kVSswBAM4LthVDOZgg5v_YoYZgJM4K0-
+Received: from [192.168.1.101] (chogan_robert@78.97.161.39 with login)
+        by smtp101.mail.ukl.yahoo.com with SMTP; 01 Apr 2012 07:22:11 -0700 PDT
+Message-Id: <If02GFljFpKn3tVpn9be4o9jqOWiOykBaktWE3JaBdwa@yahoo.com>
+Mime-Version: 1.0
+From: Amanda Harriet <chogan_robert@yahoo.com>
+To: bruce@bruce-guenter.dyndns.org
+Subject: [Ann] Collaboration Proposal
+Date: Sun, 1 Apr 2012 17:22:13 +0300
+X-Bounce-Tracking-Info: <CQkJYnJ1Y2VAYnJ1Y2UtZ3VlbnRlci5keW5kbnMub3JnCVtBbm5dIENvbGxhYm9yYXRpb24gUHJvcG9zYWwJNjMJYXVzdHJpYSBkYW5lbWFyY2EJMzMzOAlib3VuY2UJbm8Jbm8=>
+Content-type: text/html; charset=iso-8859-1
+Content-transfer-encoding: quoted-printable
+Content-Length: 31446
+
+<HTML xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas=2Emicrosoft=2Ecom/office/2004/12/omml"
+xmlns=3D"http://www=2Ew3=2Eorg/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DWord=2EDocument>
+<meta name=3DGenerator content=3D"Microsoft Word 14">
+<meta name=3DOriginator content=3D"Microsoft Word 14">
+<link rel=3DFile-List href=3D"Hello_files/filelist=2Exml">
+<!--[if gte mso 9]><xml>
+<o:DocumentProperties>
+<o:Author>Juliano</o:Author>
+<o:LastAuthor>dell</o:LastAuthor>
+<o:Revision>3</o:Revision>
+<o:TotalTime>273</o:TotalTime>
+<o:Created>2012-03-17T12:34:00Z</o:Created>
+<o:LastSaved>2012-03-18T12:27:00Z</o:LastSaved>
+<o:Pages>1</o:Pages>
+<o:Words>736</o:Words>
+<o:Characters>4274</o:Characters>
+<o:Company>ancuta</o:Company>
+<o:Lines>35</o:Lines>
+<o:Paragraphs>9</o:Paragraphs>
+<o:CharactersWithSpaces>5001</o:CharactersWithSpaces>
+<o:Version>14=2E00</o:Version>
+</o:DocumentProperties>
+<o:OfficeDocumentSettings>
+<o:TargetScreenSize>800x600</o:TargetScreenSize>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=3DthemeData href=3D"Hello_files/themedata=2Ethmx">
+<link rel=3DcolorSchemeMapping href=3D"Hello_files/colorschememapping=
+=2Exml">
+<!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:Zoom>90</w:Zoom>
+<w:SpellingState>Clean</w:SpellingState>
+<w:GrammarState>Clean</w:GrammarState>
+<w:TrackMoves>false</w:TrackMoves>
+<w:TrackFormatting/>
+<w:HyphenationZone>21</w:HyphenationZone>
+<w:PunctuationKerning/>
+<w:ValidateAgainstSchemas/>
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF/>
+<w:LidThemeOther>RO</w:LidThemeOther>
+<w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+<w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+<w:Compatibility>
+<w:BreakWrappedTables/>
+<w:SnapToGridInCell/>
+<w:WrapTextWithPunct/>
+<w:UseAsianBreakRules/>
+<w:DontGrowAutofit/>
+<w:DontUseIndentAsNumberingTabStop/>
+<w:FELineBreak11/>
+<w:WW11IndentRules/>
+<w:DontAutofitConstrainedTables/>
+<w:AutofitLikeWW11/>
+<w:HangulWidthLikeWW11/>
+<w:UseNormalStyleForList/>
+<w:SplitPgBreakAndParaMark/>
+<w:DontVertAlignCellWithSp/>
+<w:DontBreakConstrainedForcedTables/>
+<w:DontVertAlignInTxbx/>
+<w:Word11KerningPairs/>
+<w:CachedColBalance/>
+</w:Compatibility>
+<w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+<m:mathPr>
+<m:mathFont m:val=3D"Cambria Math"/>
+<m:brkBin m:val=3D"before"/>
+<m:brkBinSub m:val=3D"&#45;-"/>
+<m:smallFrac/>
+<m:dispDef/>
+<m:lMargin m:val=3D"0"/>
+<m:rMargin m:val=3D"0"/>
+<m:defJc m:val=3D"centerGroup"/>
+<m:wrapIndent m:val=3D"1440"/>
+<m:intLim m:val=3D"subSup"/>
+<m:naryLim m:val=3D"undOvr"/>
+</m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"true"
+DefSemiHidden=3D"true" DefQFormat=3D"false" DefPriority=3D"99"
+LatentStyleCount=3D"267">
+<w:LsdException Locked=3D"false" Priority=3D"0" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Normal"/>
+<w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=
+=3D"heading 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=
+=3D"heading 3"/>
+<w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=
+=3D"heading 4"/>
+<w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=
+=3D"heading 5"/>
+<w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=
+=3D"heading 6"/>
+<w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=
+=3D"heading 7"/>
+<w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=
+=3D"heading 8"/>
+<w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=
+=3D"heading 9"/>
+<w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 3"/>
+<w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 4"/>
+<w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 5"/>
+<w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 6"/>
+<w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 7"/>
+<w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 8"/>
+<w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 9"/>
+<w:LsdException Locked=3D"false" Priority=3D"35" QFormat=3D"true" Name=
+=3D"caption"/>
+<w:LsdException Locked=3D"false" Priority=3D"10" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Title"/>
+<w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default Paragraph F=
+ont"/>
+<w:LsdException Locked=3D"false" Priority=3D"11" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtitle"/>
+<w:LsdException Locked=3D"false" Priority=3D"22" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Strong"/>
+<w:LsdException Locked=3D"false" Priority=3D"20" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Emphasis"/>
+<w:LsdException Locked=3D"false" Priority=3D"59" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Table Grid"/>
+<w:LsdException Locked=3D"false" UnhideWhenUsed=3D"false" Name=3D"Placehold=
+er Text"/>
+<w:LsdException Locked=3D"false" Priority=3D"1" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"No Spacing"/>
+<w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light Shading"/>
+<w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light List"/>
+<w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light Grid"/>
+<w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium List 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium List 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3"/>
+<w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Dark List"/>
+<w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful Shading"/>
+<w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful List"/>
+<w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful Grid"/>
+<w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light List Accent 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 1"/>
+<w:LsdException Locked=3D"false" UnhideWhenUsed=3D"false" Name=3D"Revision"=
+/>
+<w:LsdException Locked=3D"false" Priority=3D"34" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"List Paragraph"/>
+<w:LsdException Locked=3D"false" Priority=3D"29" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Quote"/>
+<w:LsdException Locked=3D"false" Priority=3D"30" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Quote"/>
+<w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 1"/>
+<w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light List Accent 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 2"/>
+<w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 3"/>
+<w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light List Accent 3"/>
+<w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 3"/>
+<w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 3"/>
+<w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 3"/>
+<w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 3"/>
+<w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 3"/>
+<w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 3"/>
+<w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 3"/>
+<w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 3"/>
+<w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 3"/>
+<w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 3"/>
+<w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 3"/>
+<w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 3"/>
+<w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 4"/>
+<w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light List Accent 4"/>
+<w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 4"/>
+<w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 4"/>
+<w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 4"/>
+<w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 4"/>
+<w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 4"/>
+<w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 4"/>
+<w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 4"/>
+<w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 4"/>
+<w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 4"/>
+<w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 4"/>
+<w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 4"/>
+<w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 4"/>
+<w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 5"/>
+<w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light List Accent 5"/>
+<w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 5"/>
+<w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 5"/>
+<w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 5"/>
+<w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 5"/>
+<w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 5"/>
+<w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 5"/>
+<w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 5"/>
+<w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 5"/>
+<w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 5"/>
+<w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 5"/>
+<w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 5"/>
+<w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 5"/>
+<w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 6"/>
+<w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light List Accent 6"/>
+<w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 6"/>
+<w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 6"/>
+<w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 6"/>
+<w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 6"/>
+<w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 6"/>
+<w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 6"/>
+<w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 6"/>
+<w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 6"/>
+<w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 6"/>
+<w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 6"/>
+<w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 6"/>
+<w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 6"/>
+<w:LsdException Locked=3D"false" Priority=3D"19" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtle Emphasis"/>
+<w:LsdException Locked=3D"false" Priority=3D"21" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Emphasis"/>
+<w:LsdException Locked=3D"false" Priority=3D"31" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtle Reference"/>
+<w:LsdException Locked=3D"false" Priority=3D"32" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Reference"/>
+<w:LsdException Locked=3D"false" Priority=3D"33" SemiHidden=3D"false"
+UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Book Title"/>
+<w:LsdException Locked=3D"false" Priority=3D"37" Name=3D"Bibliography"/>
+<w:LsdException Locked=3D"false" Priority=3D"39" QFormat=3D"true" Name=
+=3D"TOC Heading"/>
+</w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+/* Font Definitions */
+@font-face
+{font-family:Calibri;
+panose-1:2 15 5 2 2 2 4 3 2 4;
+mso-font-charset:238;
+mso-generic-font-family:swiss;
+mso-font-pitch:variable;
+mso-font-signature:-520092929 1073786111 9 0 415 0;}
+/* Style Definitions */
+p=2EMsoNormal, li=2EMsoNormal, div=2EMsoNormal
+{mso-style-unhide:no;
+mso-style-qformat:yes;
+mso-style-parent:"";
+margin:0cm;
+margin-bottom:=2E0001pt;
+mso-pagination:widow-orphan;
+font-size:11=2E0pt;
+font-family:"Calibri","sans-serif";
+mso-fareast-font-family:Calibri;
+mso-bidi-font-family:"Times New Roman";
+mso-fareast-language:EN-US;}
+a:link, span=2EMsoHyperlink
+{mso-style-priority:99;
+mso-style-parent:"";
+color:blue;
+text-decoration:underline;
+text-underline:single;}
+a:visited, span=2EMsoHyperlinkFollowed
+{mso-style-noshow:yes;
+mso-style-priority:99;
+color:purple;
+text-decoration:underline;
+text-underline:single;}
+=2EMsoChpDefault
+{mso-style-type:export-only;
+mso-default-props:yes;
+font-size:10=2E0pt;
+mso-ansi-font-size:10=2E0pt;
+mso-bidi-font-size:10=2E0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;}
+@page WordSection1
+{size:595=2E3pt 841=2E9pt;
+margin:70=2E85pt 42=2E45pt 70=2E85pt 70=2E85pt;
+mso-header-margin:35=2E4pt;
+mso-footer-margin:35=2E4pt;
+mso-paper-source:0;}
+div=2EWordSection1
+{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+/* Style Definitions */
+table=2EMsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-parent:"";
+mso-padding-alt:0cm 5=2E4pt 0cm 5=2E4pt;
+mso-para-margin:0cm;
+mso-para-margin-bottom:=2E0001pt;
+mso-pagination:widow-orphan;
+font-size:10=2E0pt;
+font-family:"Calibri","sans-serif";
+mso-bidi-font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1"/>
+</o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DRO link=3Dblue vlink=3Dpurple style=3D'tab-interval:35=2E4pt'>=
+
+
+<div class=3DWordSection1>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=
+=3DEN-US
+style=3D'mso-ansi-language:EN-US'>Collaboration Proposal<o:p></o:p></span><=
+/b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=
+=3DEN-US
+style=3D'mso-ansi-language:EN-US'>Hello,<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US'><=
+o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'><span lang=3DEN-US style=
+=3D'mso-ansi-language:
+EN-US'>I d like to recommend you some great articles that I discovered on t=
+he
+web about financial astrology=2E </span>Even though you can find on the int=
+ernet
+some articles with the same topic, I tell you from the start that this appr=
+oach
+is different and very special=2E The connection established between technic=
+al and
+fundamental analysis and astrology (European and Vedic) are 100% original=
+=2E</p>
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'>This way you will better=
+
+understand the financial analysis and be able to better interpret it and yo=
+ur
+decisions during trading sessions will be more informed=2E The evolution of=
+ the
+financial market will be revealed to you in a new and more interesting ligh=
+t=2E
+Everything will get clearer and will make more sense=2E</p>
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'>Here is some titles:</p>=
+
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'><a
+href=3D"http://futureanalyzer=2Ewordpress=2Ecom/2011/12/09/125/">William Ga=
+nns Square
+of Nine</a></p>
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'><a
+href=3D"http://futureanalyzer=2Ewordpress=2Ecom/2011/11/29/important-aspect=
+s-between-planets-and-their-influence-over-financial-markets/">Important
+aspects between planets and their influence over financial markets</a></p>
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'><a
+href=3D"http://futureanalyzer=2Ewordpress=2Ecom/2011/08/03/william-gann-%E2=
+%80%93-a-legend/">William
+Gann - A Legend</a></p>
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'><a
+href=3D"http://futureanalyzer=2Ewordpress=2Ecom/2011/12/09/trend-lines-resi=
+stance-and-supports/">Trend
+lines, support and resistance</a></p>
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'><a
+href=3D"http://futureanalyzer=2Ewordpress=2Ecom/2011/12/09/indicator-macd/"=
+>Indicator
+MACD</a></p>
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'><a
+href=3D"http://futureanalyzer=2Ewordpress=2Ecom/2011/12/02/rahu-and-ketu-2/=
+">Rahu and
+Ketu</a></p>
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'><a
+href=3D"http://futureanalyzer=2Ewordpress=2Ecom/2011/08/22/do-moon-phases-i=
+nfluence-financial-markets/">Do
+moon phases influence financial markets?</a></p>
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'><a
+href=3D"http://futureanalyzer=2Ewordpress=2Ecom/2011/11/30/perigee-and-apog=
+ee-of-the-moon/">Perigee
+and Apogee of the moon<span style=3D'mso-tab-count:1'>              </span>=
+</a></p>
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'><a
+href=3D"http://futureanalyzer=2Ewordpress=2Ecom/2011/10/18/what-are-the-eph=
+emerides-and-how-do-they-help-us/">What
+are the ephemerides and how do they help us</a></p>
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'><a
+href=3D"http://futureanalyzer=2Ewordpress=2Ecom/2011/12/09/fibonacci/">Fibo=
+nacci</a></p>
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'><a
+href=3D"http://futureanalyzer=2Ewordpress=2Ecom/2011/08/04/the-stochastic-o=
+scillator-%E2%80%93-a-harmonious-system-of-trading/">Stochastic
+Oscillator</a></p>
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'><span lang=3DEN-US style=
+=3D'mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:1=2E0cm'>I will remind you again =
+that all
+the financial markets are interconnected=2E Each one can directly or indire=
+ctly
+be correlated to Dow Jones (70-90% fidelity and accuracy)=2E The money are =
+the
+same, most of the people trading are the same so it is only natural that a
+single look on DOW s evolution can tell you with 70-90% accuracy where shou=
+ld
+each moment be the price for oil, gold, stocks or the exchange rate for
+EUR/USD=2E They are all interconnected!</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Focused on the American index, Dow Jones (DOW) and EUR=
+/USD,
+i found these products:</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Dharmik Daily=
+ Indices
+with Signals<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'tab-stops:104=2E3pt 124=2E15pt'><span style=
+=3D'mso-tab-count:
+2'>                                                       </span></p>
+
+<p class=3DMsoNormal>- Daily analysis for Dow Jones with daily trend, Highs=
+ and
+Lows of the trading session, inflexion zones of the price, other remarks;</=
+p>
+
+<p class=3DMsoNormal>- Comments about the next 3-5 days evolution;<br>
+- You will get <b>the next day the analysis for Dow Jones, for the day</b> =
+that
+just passed, its level of accuracy, trading sceneries for that day (one pos=
+ible
+version), other remarks=2E</p>
+
+<p class=3DMsoNormal>- With this product it s provide clear signals for ent=
+ering
+the market; </p>
+
+<p class=3DMsoNormal>- These signals are only for US Indices (Dow Jones
+especially); </p>
+
+<p class=3DMsoNormal>- Signals for intraday traders; </p>
+
+<p class=3DMsoNormal>- Offers 2-3 signals/month; this signals are sent in d=
+aily
+analyses; the signals consist in exact instruction to enter the market (exa=
+ct
+Price) and also Stop Loss and Take Profit levels; usually these trades
+last&nbsp;between 1-2 hours to maximum 1 day until they should be closed (w=
+ith
+TP or SL depending on the market); </p>
+
+<p class=3DMsoNormal>- All analysis are sent daily by email to you, before =
+New
+York session starts=2E</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><b>More details at <a
+href=3D"http://futureanalyzer=2Ewordpress=2Ecom/2011/12/09/dharmik-daily-in=
+dices-with-signals/">http://futureanalyzer=2Ewordpress=2Ecom/2011/12/09/dha=
+rmik-daily-indices-with-signals/</a><o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:18=2E0pt'><b><o:p>&nbsp;</o:p></b=
+></p>
+
+<p class=3DMsoNormal style=3D'margin-left:18=2E0pt'><b><o:p>&nbsp;</o:p></b=
+></p>
+
+<p class=3DMsoNormal style=3D'margin-left:18=2E0pt'><b><o:p>&nbsp;</o:p></b=
+></p>
+
+<p class=3DMsoNormal style=3D'margin-left:18=2E0pt'><b><o:p>&nbsp;</o:p></b=
+></p>
+
+<p class=3DMsoNormal><b>Dharmik EUR/USD with Signals</b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:18=2E0pt'><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p class=3DMsoNormal>- Daily analysis for EUR/USD with daily trend, Highs a=
+nd
+Lows of the trading session, inflexion zones of the price, other remarks;<b=
+r>
+- Comments about the next 3-5 days evolution;<br>
+- All analysis are sent daily by email to you;</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'> </span>-Clear signal=
+s for
+entering the market;</p>
+
+<p class=3DMsoNormal>- These signals are only for EURUSD; </p>
+
+<p class=3DMsoNormal>- Signals for intraday traders;</p>
+
+<p class=3DMsoNormal>-Offers 2-3 signals/month; this signals are sent in da=
+ily
+analyses; these signals consist in exact instruction to enter the market (e=
+xact
+Price) and also Stop&nbsp;Loss and Take Profit levels; usually these trades=
+
+last&nbsp;between 1-2 hours to maximum 1 day until they should be closed (w=
+ith
+TP or SL depending on the market);</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><b>More details at <a
+href=3D"http://futureanalyzer=2Ewordpress=2Ecom/2011/12/09/dharmik-eurusd-w=
+ith-signals/">http://futureanalyzer=2Ewordpress=2Ecom/2011/12/09/dharmik-eu=
+rusd-with-signals/</a><o:p></o:p></b></p>
+
+<p class=3DMsoNormal align=3Dright style=3D'text-align:right'><o:p>&nbsp;</=
+o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><!--[if supportFields]><span style=3D'font-size:10=
+=2E0pt;
+font-family:"Arial","sans-serif"'><span style=3D'mso-element:field-begin'><=
+/span><span
+style=3D'mso-spacerun:yes'> </span>AUTOTEXTLIST<span style=3D'mso-spacerun:=
+yes'>
+</span>\s Closing \t &quot;<span style=3D'color:blue'> </span>Right-click h=
+ere to
+select from a list of standard closing salutations=2E&quot; \* MERGEFORMAT =
+<span
+style=3D'mso-element:field-separator'></span></span><![endif]--><span
+style=3D'font-size:10=2E0pt;font-family:"Arial","sans-serif"'>Sincerely,</s=
+pan><!--[if supportFields]><span
+style=3D'font-size:10=2E0pt;font-family:"Arial","sans-serif"'><span
+style=3D'mso-element:field-end'></span></span><![endif]--><span style=
+=3D'font-size:
+10=2E0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:10=2E0pt;font-family:"Arial",=
+"sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-right:-=2E35pt'><span style=3D'font-si=
+ze:10=2E0pt;
+font-family:"Arial","sans-serif"'>Mirabo Andreea<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-right:-=2E35pt'><span style=3D'font-si=
+ze:10=2E0pt;
+font-family:"Arial","sans-serif";color:black'>Financial Analyst<o:p></o:p><=
+/span></p>
+
+<p class=3DMsoNormal style=3D'margin-right:-=2E35pt'><span style=3D'font-si=
+ze:10=2E0pt;
+font-family:"Arial","sans-serif";color:black'><a
+href=3D"mailto:dharmikteam@gmail=2Ecom">dharmikteam@gmail=2Ecom</a> <o:p></=
+o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

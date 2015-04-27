@@ -1,0 +1,77 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 13166 invoked from network); 01 Apr 2011 04:32:40 -0000
+Received: (qmail 28098 invoked from network); 1 Apr 2011 04:32:40 -0000
+Received: from mail-yx0-f194.google.com (mail-yx0-f194.google.com [209.85.213.194])
+  by mx05.futurequest.net ([10.2.1.176])
+  with ESMTP via TCP; 01 Apr 2011 04:32:40 -0000
+Received: by yxn22 with SMTP id 22so399451yxn.9
+        for <bruce@untroubled.org>; Thu, 31 Mar 2011 21:32:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=eTtxn5glPFGDQsyHzXuxBVxgBMFyW6V118BJlw8+s/I=;
+        b=H9GHIZ5mWebZ8AaZwNyMr6wEQIYbbE099kE5MRxywvTUr+Yl32jgdZk7Ynyj2smi1K
+         mxizkR2Jh54qM9C+HbJKlHbsGSvdjm4AQKoHDCYKw1a7Tj815GbdBK1daECrQ28fBUz3
+         zvtRqXHAnOH0EX5kJ6/WIhrv8pnrwyQjdjHPA=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=bcc:mime-version:date:message-id:subject:from:to:content-type;
+        b=qu++Lmn8WXjEPjj0Ptlg88kw2wHhc5sjLgxaCLVPdOmw7KJat8tARP0PaPy18RhPLO
+         V9MBnvwuosOE3Mkm7PQyEbKslIxD+PFFErVBW4Z0VR6Ben1dNZQEN+vXYN2uBr4WLFU2
+         mZDcJ7svx1OKxNZP+zsCrQL8qxrtQPBHqJvoc=
+Bcc: bruce@untroubled.org
+MIME-Version: 1.0
+Received: by 10.151.137.1 with SMTP id p1mr3534288ybn.73.1301632316625; Thu,
+ 31 Mar 2011 21:31:56 -0700 (PDT)
+Received: by 10.151.145.5 with HTTP; Thu, 31 Mar 2011 21:31:56 -0700 (PDT)
+Date: Fri, 1 Apr 2011 12:31:56 +0800
+Message-ID: <AANLkTikq01TG2LbSf7cQm7EJbpd7WUBAYGXReaN4HdMO@mail.gmail.com>
+Subject: =?GB2312?B?t6K4xM6vxeDRtdbQ0MS52NPavtmw7L/GvLzP7sS/16jP7g==?=
+	=?GB2312?B?18q98Mnqsaj036Gwyq62/s7lobG/xry81ti147nmu6631s720dDM1g==?=
+	=?GB2312?B?sOCxsb6pNNTCMjbI1S0tLS2088GsNdTCMjfI1Q==?=
+From: daysi warren <curtiss4e@gmail.com>
+To: undisclosed-recipients:;
+Content-Type: multipart/mixed; boundary=000e0cd58f42dc6fdb049fd3e36e
+Content-Length: 1907
+
+--000e0cd58f42dc6fdb049fd3e36e
+Content-Type: multipart/alternative; boundary=000e0cd58f42dc6fc9049fd3e36c
+
+--000e0cd58f42dc6fc9049fd3e36c
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+
+t6K4xM6vxeDRtdbQ0MS52NPavtmw7L/GvLzP7sS/16jP7tfKvfDJ6rGo9N+hsMqutv7O5aGxv8a8
+vNbYteO55ruut9bO9tHQzNaw4AoKzsS8/srHyajD6LDmtuC147v3vLS08r+qCs/qvPu4vbz+Cgqx
+sb6pNNTCMjbI1QoKtPPBrDXUwjI3yNUKCsGqz7XIy6O6y+/V8MDPyqYKCrSrICDV5qO6MDEwLTU5
+NDI2MTIzCgrTyiAgz+SjumZnd2NoaW5hQHZpcC4xNjMuY29tCg==
+--000e0cd58f42dc6fc9049fd3e36c
+Content-Type: text/html; charset=GB2312
+Content-Transfer-Encoding: base64
+
+PGRpdj63orjEzq/F4NG11tDQxLnY09q+2bDsv8a8vM/uxL/XqM/u18q98Mnqsaj03yZsZHF1bzvK
+rrb+zuUmcmRxdW87v8a8vNbYteO55ruut9bO9tHQzNaw4DwvZGl2PjxkaXY+PGJyPjwvZGl2Pjxk
+aXY+zsS8/srHyajD6LDmtuC147v3vLS08r+qPC9kaXY+PGRpdj7P6rz7uL28/jwvZGl2PjxkaXY+
+PGJyPjwvZGl2PjxkaXY+sbG+qTTUwjI2yNU8L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PrTzwaw1
+1MIyN8jVPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj7Bqs+1yMujusvv1fDAz8qmPC9kaXY+PGRp
+dj48YnI+PC9kaXY+PGRpdj4KtKsgJm5ic3A71eajujAxMC01OTQyNjEyMzwvZGl2PjxkaXY+PGJy
+PjwvZGl2PjxkaXY+08ogJm5ic3A7z+SjujxhIGhyZWY9Im1haWx0bzpmZ3djaGluYUB2aXAuMTYz
+LmNvbSI+Zmd3Y2hpbmFAdmlwLjE2My5jb208L2E+PC9kaXY+Cg==
+--000e0cd58f42dc6fc9049fd3e36c--
+--000e0cd58f42dc6fdb049fd3e36e
+Content-Type: message/external-body; access-type=x-deleted; length=1612234
+
+
+Content-Type: application/msword; 
+	name="=?GB2312?B?t6K4xM6vxeDRtdbQ0MS52NPavtmw7L/GvLzP7sS/16jP7tfKvfA=?=
+	=?GB2312?B?yeqxqPTfobDKrrb+zuWhsb/GvLzW2LXjuea7rrfWzvbR0MzWsOCxsQ==?=
+	=?GB2312?B?vqk01MIyNsjVLS0tLbTzwaw11MIyN8jVLmRvYw==?="
+Content-Disposition: attachment; 
+	filename="=?GB2312?B?t6K4xM6vxeDRtdbQ0MS52NPavtmw7L/GvLzP7sS/16jP7tfKvfA=?=
+	=?GB2312?B?yeqxqPTfobDKrrb+zuWhsb/GvLzW2LXjuea7rrfWzvbR0MzWsOCxsQ==?=
+	=?GB2312?B?vqk01MIyNsjVLS0tLbTzwaw11MIyN8jVLmRvYw==?="
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_glym9c0d0
+
+--000e0cd58f42dc6fdb049fd3e36e--

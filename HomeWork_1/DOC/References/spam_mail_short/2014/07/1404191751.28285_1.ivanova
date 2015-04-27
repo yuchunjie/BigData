@@ -1,0 +1,808 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 7664 invoked from network); 30 Jun 2014 22:11:19 -0000
+Received: (qmail 7273 invoked from network); 30 Jun 2014 22:11:19 -0000
+Received: from mail128-5.atl41.mandrillapp.com (mail128-5.atl41.mandrillapp.com [198.2.128.5])
+  by mx02.futurequest.net ([10.2.1.172])
+  with ESMTP via TCP; 30 Jun 2014 22:11:18 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=mail128-5.atl41.mandrillapp.com;
+ h=From:Sender:Subject:Reply-To:Message-Id:List-Unsubscribe:To:Date:MIME-Version:Content-Type; i=info@mail128-5.atl41.mandrillapp.com;
+ bh=l9oE+M1OlQeL2bRqD6NeQ4nCvYM=;
+ b=O0MUV8NkJ2DiCBUoGh1RPOy3LrDphA65KErnQBXcjuxDGUCQhm6B+8hzOoUnc8TbosnrYExH+u0Q
+   nhu+tFCvKWPaUfdjJVwpqHQCgLpOQLl1zePzr9eRUgZesXQosU+VJw6/Z24eXToXu65nMUJJD3zu
+   TDWpfU2Kk4UF/oKJav4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=mail128-5.atl41.mandrillapp.com;
+ b=dKArc8at/e4FqWIOGiVVjFdNqyT5w2+KWMysVdg9zx+3/ucVwzv92ooBMtjCzuwIBlKEe5MASw/J
+   lpNIsoeF6k4d7yNougy004VHiwtlYBzWGHfWJ9Khg86/guTb3VuuUtTAXbkar1Ubd1+swkqbA/6F
+   H8ZwKF78+Ibk0VN85Lg=;
+Received: from pmta04.atl01.mandrillapp.com (127.0.0.1) by mail128-5.atl41.mandrillapp.com id hm7g8c1mqukj for <bruce@untroubled.org>; Mon, 30 Jun 2014 22:11:18 +0000 (envelope-from <bounce-md_30048333.53b1e086.v1-a893ed6ab13749838d75c1db5d5ab396@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1404166278; h=From : 
+ Sender : Subject : Reply-To : Message-Id : List-Unsubscribe : To : Date 
+ : MIME-Version : Content-Type : From : Subject : Date : X-Mandrill-User 
+ : List-Unsubscribe; bh=I6VW/6U2QxMIxQT4FRBP0uISrUoYwdzL/xXmDZt0ieo=; 
+ b=jFs3SfcqQOXDVvNsyoKX2xWuapTXo0BwHex2ZAgnt0pjvyKWdmgxDiM/epFFEuyIi4wLyr
+ svtMjFCs4h+PDmqxH7ovdm+Zh+bGB1WkUkVNv851L2Ey/aIAJJH8XiqayYryIqyql2wMCCif
+ WzK0kPtvT/7OpWeeOWpbvpxuxu7lc=
+From: Oferta megaOKazie! <info@megaokazie-mail.eu>
+Sender: Oferta megaOKazie! <info@mail128-5.atl41.mandrillapp.com>
+Subject: Tu alegi produsele, noi iti dam REDUCEREA!
+Return-Path: <bounce-md_30048333.53b1e086.v1-a893ed6ab13749838d75c1db5d5ab396@mandrillapp.com>
+Reply-To: Oferta megaOKazie! <info@megaokazie-mail.eu>
+Precedence: bulk
+Message-Id: <20140630221117.5503.1156.105087.125234246.nl@megaokazie-mail.eu>
+List-Unsubscribe: <mailto:nunsub-1156-105087-125234246-dfe6a@megaokazie-mail.eu>, <http://nl.megaokazie-mail.eu/unsubscribe/1156/105087/125234246/dfe6aa35e65ff7c18bbc2832fc8b285b>
+To: Bruce <bruce@untroubled.org>
+Received: from [148.251.84.47] by mandrillapp.com id a893ed6ab13749838d75c1db5d5ab396; Mon, 30 Jun 2014 22:11:18 +0000
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30048333.a893ed6ab13749838d75c1db5d5ab396
+X-Mandrill-User: md_30048333
+Date: Mon, 30 Jun 2014 22:11:18 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-Kpufh3BFtN2oeDOgUp4x0g"
+Content-Length: 45026
+
+--_av-Kpufh3BFtN2oeDOgUp4x0g
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Pentru a vedea online http://mandrillapp.com/track/click.php?u=3D30048333&i=
+d=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.=
+eu%2Fv%2F105087%2F125234246%2Fdfe6aa35e65ff7c18bbc2832fc8b285b&url_id=3D06e=
+b9ee923a0d83b3d36a0d890674f6f9b0e91cc acest mesaj personalizat click aici
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fv%2F105087%2F1252=
+34246%2Fdfe6aa35e65ff7c18bbc2832fc8b285b&url_id=3D06eb9ee923a0d83b3d36a0d89=
+0674f6f9b0e91cc
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fv%2F105087%2F1252=
+34246%2Fdfe6aa35e65ff7c18bbc2832fc8b285b%3Flike%3Dfacebook&url_id=3D06eb9ee=
+923a0d83b3d36a0d890674f6f9b0e91cc
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fv%2F105087%2F1252=
+34246%2Fdfe6aa35e65ff7c18bbc2832fc8b285b%3Fshare%3Dtwitter&url_id=3D06eb9ee=
+923a0d83b3d36a0d890674f6f9b0e91cc
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fv%2F105087%2F1252=
+34246%2Fdfe6aa35e65ff7c18bbc2832fc8b285b%3Fshare%3Dlinkedin&url_id=3D06eb9e=
+e923a0d83b3d36a0d890674f6f9b0e91cc
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fv%2F105087%2F1252=
+34246%2Fdfe6aa35e65ff7c18bbc2832fc8b285b%3Flike%3Dplusone&url_id=3D06eb9ee9=
+23a0d83b3d36a0d890674f6f9b0e91cc
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fv%2F105087%2F1252=
+34246%2Fdfe6aa35e65ff7c18bbc2832fc8b285b%3Fshare%3Dpinterest&url_id=3D06eb9=
+ee923a0d83b3d36a0d890674f6f9b0e91cc
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F12=
+5234246%2F8333106%2Fb428c0142bca61710464a0115f85b207&url_id=3Dd1055c0855ad5=
+7488ac7996ecae23cb19d2ff292
+
+Bucura-te de soare si de CODURI de REDUCERE PE LOC la produse de bucatarie,
+electrocasnice, aparate de masaj, unelte si multe altele.
+
+Pentru a ob=C8=9Bine reducerea, introdu oricare din coduri in cosul tau de
+cumparaturi, imediat dupa ce adaugi produsele dorite. Codurile din acest
+newsletter expira pe 02 Iulie 2014. Foloseste-le acum!
+
+Important:
+
+Poti adauga un singur cod de reducere/comanda.
+
+Codurile nu se cumuleaza, insa po=C8=9Bi folosi coduri diferite in comenzi
+separate.
+
+Produsele marcate cu reducere nu pot folosii aceste coduri
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F12=
+5234246%2F8333110%2F375f0b264c72679126f69fbbf1931c0c&url_id=3Dd1055c0855ad5=
+7488ac7996ecae23cb19d2ff292
+
+ARTICOLE BUCATARIE
+
+Cupon reducere - 10% 4MKHFMTM9X
+
+megaOKazie la articole pentru bucatarie. Accesorii bucatarie. Va oferim
+toata gama de articole, ustensile si accesorii pentru bucatarie la cele mai
+bune preturi. Calitate garantata.
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F12=
+5234246%2F8333110%2F375f0b264c72679126f69fbbf1931c0c&url_id=3Dd1055c0855ad5=
+7488ac7996ecae23cb19d2ff292
+
+CUMPARA ACUM
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F12=
+5234246%2F8333104%2F9818015413ae1cb8bfb0e4538e96176b&url_id=3Dd1055c0855ad5=
+7488ac7996ecae23cb19d2ff292
+
+ARTICOLE ELECTROCASNICE
+
+Cupon reducere - 10% REQG4WARCV
+
+Electrocasnice ieftine. Magazin electrocasnice Toata gama electrocasnice si
+electronice online. Oferte si reduceri la produsele electrocasnice si
+electronice.
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F12=
+5234246%2F8333104%2F9818015413ae1cb8bfb0e4538e96176b&url_id=3Dd1055c0855ad5=
+7488ac7996ecae23cb19d2ff292
+
+CUMPARA ACUM
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F12=
+5234246%2F8333101%2F0f8ae3307991a839eb800c484c29df2d&url_id=3Dd1055c0855ad5=
+7488ac7996ecae23cb19d2ff292
+
+BICICLETE
+
+Cupon reducere - 10% CKJAEHCYVK
+
+Biciclete - Bicicleta sport, mountainbike, biciclete pentru agrement sau
+pliabila, aici gasesti cele mai bune oferte si calitate garantata.
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F12=
+5234246%2F8333107%2Fc92cae39328bbb75fd0607364e77cff7&url_id=3Dd1055c0855ad5=
+7488ac7996ecae23cb19d2ff292
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F12=
+5234246%2F8333101%2F0f8ae3307991a839eb800c484c29df2d&url_id=3Dd1055c0855ad5=
+7488ac7996ecae23cb19d2ff292
+
+CUMPARA ACUM
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F12=
+5234246%2F8333105%2Fd3d50b5a3ddca15d049273a8042c9655&url_id=3Dd1055c0855ad5=
+7488ac7996ecae23cb19d2ff292
+
+ARTICOLE iNGRIJIRE PERSONALA
+
+Cupon reducere - 10% LJ8HZCD9JA
+
+ingrijire personala la preturi promotionale. Epilatoare, aparate masaj.
+cantare, truse manichiura-pedichiura, termometre, ondulatoaresi perii
+rotative.
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F12=
+5234246%2F8333102%2F93d4a2ba0d824e2494e65ab943c5dc7a&url_id=3Dd1055c0855ad5=
+7488ac7996ecae23cb19d2ff292
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F12=
+5234246%2F8333105%2Fd3d50b5a3ddca15d049273a8042c9655&url_id=3Dd1055c0855ad5=
+7488ac7996ecae23cb19d2ff292
+
+CUMPARA ACUM
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F12=
+5234246%2F8333103%2Fa370b6caa6377635abf8f247bf229213&url_id=3Dd1055c0855ad5=
+7488ac7996ecae23cb19d2ff292
+
+ARTICOLE UNELTE SI SCULE
+
+Cupon reducere - 5% URVXD8AUNB
+
+Unelte si scule la preturi extraordinare. Avem unelte si scule pentru
+tamplarie, unelte si scule pentru zidarie, unelte si scule pentru reparatii
+auto sau pentru mici ateliere de reparatii.
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F12=
+5234246%2F8333100%2F61196fb2b81e94f279564456f74a37a6&url_id=3Dd1055c0855ad5=
+7488ac7996ecae23cb19d2ff292
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F12=
+5234246%2F8333103%2Fa370b6caa6377635abf8f247bf229213&url_id=3Dd1055c0855ad5=
+7488ac7996ecae23cb19d2ff292
+
+CUMPARA ACUM
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F12=
+5234246%2F8333109%2Ff1274a5facf0835068f1bea95e12165f&url_id=3Dd1055c0855ad5=
+7488ac7996ecae23cb19d2ff292
+
+LENJERII DE PAT
+
+Cupon reducere - 10% V8J0V5F6KT
+
+Lenjerie de pat din bumbac, oferte lejerii de pat, lenjerii 3D confectionat=
+e
+din bumbac 100%
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F12=
+5234246%2F8333108%2F9358535f35f52dc644049347d8e25b23&url_id=3Dd1055c0855ad5=
+7488ac7996ecae23cb19d2ff292
+
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F12=
+5234246%2F8333109%2Ff1274a5facf0835068f1bea95e12165f&url_id=3Dd1055c0855ad5=
+7488ac7996ecae23cb19d2ff292
+
+CUMPARA ACUM
+
+Ati primit acest Email deoarece v-ati inscris pe site-ul megaokazie.ro sau
+pe unul din siteurile partenerilor. Daca nu mai doriti sa primiti mesajele
+noastre va rugam folosititi linkul "dezabonare"
+
+Pentru a vedea online http://mandrillapp.com/track/click.php?u=3D30048333&i=
+d=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.=
+eu%2Fv%2F105087%2F125234246%2Fdfe6aa35e65ff7c18bbc2832fc8b285b&url_id=3D06e=
+b9ee923a0d83b3d36a0d890674f6f9b0e91cc acest mesaj personalizat click aici
+http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d=
+75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fv%2F105087%2F1252=
+34246%2Fdfe6aa35e65ff7c18bbc2832fc8b285b&url_id=3D06eb9ee923a0d83b3d36a0d89=
+0674f6f9b0e91cc
+
+Pentru dezabonare instant click aici http://mandrillapp.com/track/click.php=
+?u=3D30048333&id=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.m=
+egaokazie-mail.eu%2Funsubscribe%2F1156%2F105087%2F125234246%2Fdfe6aa35e65ff=
+7c18bbc2832fc8b285b&url_id=3Dd1055c0855ad57488ac7996ecae23cb19d2ff292.
+
+
+
+--_av-Kpufh3BFtN2oeDOgUp4x0g
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML>
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8"><title>Tu alegi produsele, noi iti dam REDUCEREA!</title><style>
+table {border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0p=
+t;}
+      =09=09=09  @media only screen and (max-width: 600px) {
+=09=09=09        =09body { width: 96% !important; max-width: 96% !important=
+; }
+=09=09=09        =09
+=09=09=09        =09body table { width: 100% !important; max-width: 100% !i=
+mportant; clear: both !important; float: none !important; }
+=09=09=09        =09td.imgF img { width: 100% !important; max-width: 100% !=
+important; clear: both !important; float: none !important; }
+=09=09=09        =09td img.productImgF { width: 100% !important; max-width:=
+ 300px  !important; clear: both !important; float: none !important;}
+=09=09=09        =09td img.productImg { width: 100% !important; max-width: =
+300px !important; clear: both !important; float: none !important; padding-t=
+op: 35px; }
+=09=09=09        =09
+=09=09=09        }
+</style><meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1.0, maximum-scale=3D1.0, user-scalable=3Dno"></head><body style=3D"m=
+argin: 0; background-color: #ffffff">
+<img src=3D"http://nl.megaokazie-mail.eu/tr/105087/125234246/dfe6aa35e65ff7=
+c18bbc2832fc8b285b" width=3D"1" height=3D"1"><table border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" width=3D"600" align=3D"center"><tr><td>
+
+=09=09=09=09
+=09=09=09=09=09=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09=09=09
+=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"color:#818080; font: normal 12px Arial, sans-serif; width: 600=
+px; "><tbody><tr><td>
+=09=09=09=09
+=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"padding:0; background:#f3f3f3;" width=3D"100%"><tbody><tr><td colspan=
+=3D"2"><block buttons=3D"absolute-left" count=3D"1" empty=3D"0" repeat=3D"0=
+"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"
+=09=09=09color: #868686;=09=09=09background-color: #ffffff;=09=09=09width: =
+600px;
+=09=09=09font-family: Arial, sans-serif;
+=09=09=09font-size: 11px;
+=09=09" width=3D"600"><tbody><tr><td align=3D"center" style=3D"padding: 0px=
+;" valign=3D"middle">
+=09=09=09=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"headerT1" style=3D"width: 300px; padding: 0px;" widt=
+h=3D"300"><tbody><tr><td style=3D"
+=09=09=09=09=09=09  color: #868686;=09=09=09=09=09=09=09font-family: Arial,=
+ sans-serif;
+=09=09=09=09=09=09=09font-size: 11px;
+=09=09=09=09=09=09=09line-height: 18px;
+=09=09=09=09=09=09=09text-align: center;
+=09=09=09=09=09=09=09padding: 6px
+=09=09=09=09=09=09"><br><span id=3D"view_online_id">Pentru a vedea <a href=
+=3D"http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749=
+838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fv%2F105087%2F=
+125234246%2Fdfe6aa35e65ff7c18bbc2832fc8b285b&url_id=3D06eb9ee923a0d83b3d36a=
+0d890674f6f9b0e91cc" style=3D"
+=09=09=09=09=09=09=09=09=09font-weight:bold;
+=09=09=09=09=09=09=09=09=09color: #868686;=09=09=09=09=09=09=09=09">online<=
+/a> acest mesaj personalizat <a href=3D"http://mandrillapp.com/track/click.=
+php?u=3D30048333&id=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fn=
+l.megaokazie-mail.eu%2Fv%2F105087%2F125234246%2Fdfe6aa35e65ff7c18bbc2832fc8=
+b285b&url_id=3D06eb9ee923a0d83b3d36a0d890674f6f9b0e91cc" style=3D"
+=09=09=09=09=09=09=09=09=09font-weight:bold;
+=09=09=09=09=09=09=09=09=09color: #868686;=09=09=09=09=09=09=09=09">click a=
+ici</a> </span></td>
+=09=09=09=09=09=09=09=09</tr></tbody></table><table align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"headerT1" height=3D"80"=
+ style=3D"width: 250px; height: 80px; padding: 0px;" width=3D"250"><tbody><=
+tr><td align=3D"center" height=3D"80" style=3D"padding: 0px; height: 80px;"=
+ valign=3D"middle">
+=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"width: 100%; padding: 0px; max-width: 300=
+px !important;" width=3D"100%"><tbody><tr><td width=3D"51"><a href=3D"http:=
+//mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d75c1d=
+b5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fv%2F105087%2F125234246=
+%2Fdfe6aa35e65ff7c18bbc2832fc8b285b%3Flike%3Dfacebook&url_id=3D06eb9ee923a0=
+d83b3d36a0d890674f6f9b0e91cc"><img border=3D"0" height=3D"20" src=3D"http:/=
+/nl.megaokazie.ro/images/fblike.png" width=3D"51"></a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"padding-left: 5px" width=
+=3D"55"><a href=3D"http://mandrillapp.com/track/click.php?u=3D30048333&id=
+=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.e=
+u%2Fv%2F105087%2F125234246%2Fdfe6aa35e65ff7c18bbc2832fc8b285b%3Fshare%3Dtwi=
+tter&url_id=3D06eb9ee923a0d83b3d36a0d890674f6f9b0e91cc"><img border=3D"0" h=
+eight=3D"20" src=3D"http://nl.megaokazie.ro/images/tweet.png" width=3D"55">=
+</a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"padding-left: 5px" width=
+=3D"54"><a href=3D"http://mandrillapp.com/track/click.php?u=3D30048333&id=
+=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.e=
+u%2Fv%2F105087%2F125234246%2Fdfe6aa35e65ff7c18bbc2832fc8b285b%3Fshare%3Dlin=
+kedin&url_id=3D06eb9ee923a0d83b3d36a0d890674f6f9b0e91cc"><img border=3D"0" =
+height=3D"20" src=3D"http://nl.megaokazie.ro/images/linkedin.png" width=3D"=
+54"></a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"padding-left: 5px" width=
+=3D"51"><a href=3D"http://mandrillapp.com/track/click.php?u=3D30048333&id=
+=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.e=
+u%2Fv%2F105087%2F125234246%2Fdfe6aa35e65ff7c18bbc2832fc8b285b%3Flike%3Dplus=
+one&url_id=3D06eb9ee923a0d83b3d36a0d890674f6f9b0e91cc"><img border=3D"0" he=
+ight=3D"20" src=3D"http://nl.megaokazie.ro/images/plusoneb.png" width=3D"51=
+"></a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"20" style=3D"padding-left=
+: 5px" width=3D"41"><a href=3D"http://mandrillapp.com/track/click.php?u=3D3=
+0048333&id=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaoka=
+zie-mail.eu%2Fv%2F105087%2F125234246%2Fdfe6aa35e65ff7c18bbc2832fc8b285b%3Fs=
+hare%3Dpinterest&url_id=3D06eb9ee923a0d83b3d36a0d890674f6f9b0e91cc"><img bo=
+rder=3D"0" height=3D"20" src=3D"http://nl.megaokazie.ro/images/pinit-nl-btn=
+.png" width=3D"41"></a></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09=09=09=09</tr></tbody></table></td>
+=09=09=09=09=09</tr></tbody></table></block></td>
+=09=09</tr></tbody></table><a href=3D"http://mandrillapp.com/track/click.ph=
+p?u=3D30048333&id=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.=
+megaokazie-mail.eu%2Fclk%2F105087%2F125234246%2F8333106%2Fb428c0142bca61710=
+464a0115f85b207&url_id=3Dd1055c0855ad57488ac7996ecae23cb19d2ff292" target=
+=3D"_blank"><img alt=3D"" src=3D"http://img.nl.megaokazie-mail.eu/i/b7a1ade=
+e96a293c3e775739329c45684/64435.jpg" style=3D"width: 662px; height: 200px;"=
+></a><span style=3D"color:#000000;">Bucura-te de soare si de CODURI de REDU=
+CERE PE LOC la produse de bucatarie, electrocasnice, aparate de masaj, unel=
+te si multe altele.<br>
+Pentru a ob=C8=9Bine reducerea, introdu oricare din coduri in cosul tau de =
+cumparaturi, imediat dupa ce adaugi produsele dorite.=C2=A0Codurile din ace=
+st newsletter expira pe 02 Iulie 2014. Foloseste-le acum!=C2=A0<br><strong>=
+Important:</strong><br>
+Poti adauga un singur cod de reducere/comanda.<br>
+Codurile nu se cumuleaza, insa po=C8=9Bi folosi coduri diferite in comenzi =
+separate.<br>
+Produsele marcate cu reducere nu pot folosii aceste coduri</span><br>
+=C2=A0<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"back=
+ground-color: #ffffff; border-top:1px solid #e4e4e4; border-bottom:1px soli=
+d #e4e4e4; width: 100%"><tbody><tr><td align=3D"center" valign=3D"bottom">
+=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"background-color: #fff; padding:0" width=3D"200"><tbody><tr=
+><td style=3D"color: #484848; font: 22px bold Arial, sans-serif; font-weigh=
+t: 800; padding-left: 10px;"><a href=3D"http://mandrillapp.com/track/click.=
+php?u=3D30048333&id=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fn=
+l.megaokazie-mail.eu%2Fclk%2F105087%2F125234246%2F8333110%2F375f0b264c72679=
+126f69fbbf1931c0c&url_id=3Dd1055c0855ad57488ac7996ecae23cb19d2ff292" target=
+=3D"_blank"><font color=3D"#333333" face=3D"sans-serif, Arial, Verdana, Tre=
+buchet MS" size=3D"2"><span style=3D"font-weight: normal; line-height: 20.7=
+99999237060547px;"><img alt=3D"" src=3D"http://img.nl.megaokazie-mail.eu/i/=
+e6eca4f850245c1bad4dffc1bb045fbe/64436.jpg" style=3D"border-width: 0px; bor=
+der-style: solid; width: 200px; height: 203px;"></span></font></a></td>
+=09=09=09=09=09</tr></tbody></table><table align=3D"left" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" style=3D"background-color: #fff; padding:0"=
+ valign=3D"bottom" width=3D"380"><tbody><tr><td height=3D"25" style=3D"heig=
+ht: 25px; line-height: 25px;">=C2=A0</td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"color: #494949; font: 2=
+2px bold Arial, sans-serif; font-weight: 800; padding-left: 10px;"><font co=
+lor=3D"#333333" face=3D"sans-serif, Arial, Verdana, Trebuchet MS" size=3D"2=
+"><span style=3D"font-weight: normal; line-height: 20.799999237060547px;"><=
+span style=3D"color: rgb(0, 100, 0); font-family: Helvetica; font-size: 14p=
+x; line-height: 21px; text-align: center; background-color: rgb(244, 244, 2=
+44);">ARTICOLE BUCATARIE</span></span></font></td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"color: #eb295d; font: 1=
+4px bold Arial, sans-serif; font-weight: 600; padding-left: 10px;"><span st=
+yle=3D"color:#FF0000;"><font face=3D"sans-serif, Arial, Verdana, Trebuchet =
+MS" size=3D"2"><span style=3D"font-weight: normal; line-height: 20.79999923=
+7060547px;"><span style=3D"text-align: center; background-color: rgb(244, 2=
+44, 244);">Cupon reducere - 10%</span></span></font></span><font color=3D"#=
+333333" face=3D"sans-serif, Arial, Verdana, Trebuchet MS" size=3D"2"><span =
+style=3D"font-weight: normal; line-height: 20.799999237060547px;"><span sty=
+le=3D"text-align: center; background-color: rgb(244, 244, 244);">=C2=A0</sp=
+an></span></font><span style=3D"font-size:14px;"><span style=3D"color:#0080=
+80;"><font face=3D"sans-serif, Arial, Verdana, Trebuchet MS"><span style=3D=
+"font-weight: normal; line-height: 20.799999237060547px;"><strong><span sty=
+le=3D"text-align: center; background-color: rgb(244, 244, 244);">4MKHFMTM9X=
+</span></strong></span></font></span></span></td>
+=09=09=09=09=09</tr><tr><td height=3D"5" style=3D"height: 5px; line-height:=
+ 5px;">=C2=A0</td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"color: #8f8d8d; font-si=
+ze: 14px; font-family: Arial, sans-serif; padding-left: 10px;" width=3D"300=
+">megaOKazie la articole pentru bucatarie. Accesorii bucatarie. Va oferim t=
+oata gama de articole, ustensile si accesorii pentru bucatarie la cele mai =
+bune preturi. Calitate garantata.<br><a href=3D"http://mandrillapp.com/trac=
+k/click.php?u=3D30048333&id=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3=
+A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F125234246%2F8333110%2F375f0b2=
+64c72679126f69fbbf1931c0c&url_id=3Dd1055c0855ad57488ac7996ecae23cb19d2ff292=
+" target=3D"_blank"><span style=3D"color:#FFFFFF;"><span style=3D"backgroun=
+d-color:#006400;">=C2=A0<strong> CUMPARA ACUM</strong> =C2=A0</span></span>=
+</a></td>
+=09=09=09=09=09</tr><tr><td height=3D"5" style=3D"height: 5px; line-height:=
+ 5px;">=C2=A0</td>
+=09=09=09=09=09</tr></tbody></table></td>
+=09=09</tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"background-color: #ffffff; border-top:1px solid #e4e4e4; b=
+order-bottom:1px solid #e4e4e4; width: 100%"><tbody><tr><td align=3D"center=
+" valign=3D"bottom">
+=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"background-color: #fff; padding:0" width=3D"200"><tbody><tr=
+><td style=3D"color: #484848; font: 22px bold Arial, sans-serif; font-weigh=
+t: 800; padding-left: 10px;"><a href=3D"http://mandrillapp.com/track/click.=
+php?u=3D30048333&id=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fn=
+l.megaokazie-mail.eu%2Fclk%2F105087%2F125234246%2F8333104%2F9818015413ae1cb=
+8bfb0e4538e96176b&url_id=3Dd1055c0855ad57488ac7996ecae23cb19d2ff292" id=3D"=
+" style=3D"font-weight: normal; line-height: 20.799999237060547px;" target=
+=3D"_blank"><font color=3D"#333333" face=3D"sans-serif, Arial, Verdana, Tre=
+buchet MS" size=3D"2"><img alt=3D"" src=3D"http://img.nl.megaokazie-mail.eu=
+/i/c288ccd34140c8ef8c1d5818b99fe467/64437.jpg" style=3D"border-width: 0px; =
+border-style: solid; width: 250px; height: 173px;"></font></a></td>
+=09=09=09=09=09</tr></tbody></table><table align=3D"left" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" style=3D"background-color: #fff; padding:0"=
+ valign=3D"bottom" width=3D"380"><tbody><tr><td height=3D"25" style=3D"heig=
+ht: 25px; line-height: 25px;">=C2=A0</td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"color: #494949; font: 2=
+2px bold Arial, sans-serif; font-weight: 800; padding-left: 10px;"><strong>=
+<span style=3D"color:#006400;"><span style=3D"text-align: center; backgroun=
+d-color: rgb(244, 244, 244); font-weight: normal; line-height: 20.799999237=
+060547px;"><font face=3D"sans-serif, Arial, Verdana, Trebuchet MS" size=3D"=
+2">ARTICOLE ELECTROCASNICE</font></span></span></strong></td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"color: #eb295d; font: 1=
+4px bold Arial, sans-serif; font-weight: 600; padding-left: 10px;"><span st=
+yle=3D"color:#FF0000;"><font face=3D"sans-serif, Arial, Verdana, Trebuchet =
+MS" size=3D"2"><span style=3D"font-weight: normal; line-height: 20.79999923=
+7060547px;"><span style=3D"text-align: center; background-color: rgb(244, 2=
+44, 244);">Cupon reducere - 10%</span></span></font></span><font color=3D"#=
+333333" face=3D"sans-serif, Arial, Verdana, Trebuchet MS" size=3D"2"><span =
+style=3D"font-weight: normal; line-height: 20.799999237060547px;"><span sty=
+le=3D"text-align: center; background-color: rgb(244, 244, 244);">=C2=A0</sp=
+an></span></font><strong><span style=3D"color:#008080;"><font face=3D"sans-=
+serif, Arial, Verdana, Trebuchet MS" size=3D"2"><span style=3D"font-weight:=
+ normal; line-height: 20.799999237060547px;"><span style=3D"font-family: He=
+lvetica; font-size: 14px; line-height: 21px; text-align: center; background=
+-color: rgb(244, 244, 244);">REQG4WARCV</span></span></font></span></strong=
+></td>
+=09=09=09=09=09</tr><tr><td height=3D"5" style=3D"height: 5px; line-height:=
+ 5px;">=C2=A0</td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"color: #8f8d8d; font-si=
+ze: 14px; font-family: Arial, sans-serif; padding-left: 10px;" width=3D"300=
+">Electrocasnice ieftine. Magazin electrocasnice Toata gama electrocasnice =
+si electronice online. Oferte si reduceri la produsele electrocasnice si el=
+ectronice.<br><strong><font face=3D"sans-serif, Arial, Verdana, Trebuchet M=
+S" size=3D"2"><span style=3D"line-height: 20.799999237060547px;"><a href=3D=
+"http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838=
+d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F1=
+25234246%2F8333104%2F9818015413ae1cb8bfb0e4538e96176b&url_id=3Dd1055c0855ad=
+57488ac7996ecae23cb19d2ff292" target=3D"_blank"><span style=3D"color:#FFFFF=
+F;"><span style=3D"background-color:#006400;">=C2=A0 CUMPARA ACUM =C2=A0</s=
+pan></span></a></span></font></strong></td>
+=09=09=09=09=09</tr><tr><td height=3D"5" style=3D"height: 5px; line-height:=
+ 5px;">=C2=A0</td>
+=09=09=09=09=09</tr></tbody></table></td>
+=09=09</tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"background-color: #ffffff; border-top:1px solid #e4e4e4; b=
+order-bottom:1px solid #e4e4e4; width: 100%"><tbody><tr><td align=3D"center=
+" valign=3D"bottom">
+=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"background-color: #fff; padding:0" width=3D"200"><tbody><tr=
+><td style=3D"color: #484848; font: 22px bold Arial, sans-serif; font-weigh=
+t: 800; padding-left: 10px;"><a href=3D"http://mandrillapp.com/track/click.=
+php?u=3D30048333&id=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fn=
+l.megaokazie-mail.eu%2Fclk%2F105087%2F125234246%2F8333101%2F0f8ae3307991a83=
+9eb800c484c29df2d&url_id=3Dd1055c0855ad57488ac7996ecae23cb19d2ff292" style=
+=3D"font-weight: normal; line-height: 20.799999237060547px;" target=3D"_bla=
+nk"><font color=3D"#333333" face=3D"sans-serif, Arial, Verdana, Trebuchet M=
+S" size=3D"2"><img alt=3D"" src=3D"http://img.nl.megaokazie-mail.eu/i/cffb3=
+94270c8583c237e517fae8bdaea/64441.jpg" style=3D"border-width: 0px; border-s=
+tyle: solid; width: 250px; height: 162px;"></font></a></td>
+=09=09=09=09=09</tr></tbody></table><table align=3D"left" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" style=3D"background-color: #fff; padding:0"=
+ valign=3D"bottom" width=3D"380"><tbody><tr><td height=3D"25" style=3D"heig=
+ht: 25px; line-height: 25px;">=C2=A0</td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"text-align: center; fon=
+t-style: normal; font-variant: normal; padding-left: 10px;"><span style=3D"=
+color:#006400;"><span style=3D"background-color: rgb(244, 244, 244);">BICIC=
+LETE</span></span></td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"color: #eb295d; font: 1=
+4px bold Arial, sans-serif; font-weight: 600; padding-left: 10px;"><span st=
+yle=3D"color:#FF0000;"><font face=3D"sans-serif, Arial, Verdana, Trebuchet =
+MS" size=3D"2"><span style=3D"font-weight: normal; line-height: 20.79999923=
+7060547px;"><span style=3D"text-align: center; background-color: rgb(244, 2=
+44, 244);">Cupon reducere - 10%</span></span></font></span><font color=3D"#=
+333333" face=3D"sans-serif, Arial, Verdana, Trebuchet MS" size=3D"2"><span =
+style=3D"font-weight: normal; line-height: 20.799999237060547px;"><span sty=
+le=3D"text-align: center; background-color: rgb(244, 244, 244);">=C2=A0</sp=
+an></span></font><strong style=3D"color: rgb(0, 128, 128); font-family: Hel=
+vetica; font-size: 14px; line-height: 21px; text-align: center; background-=
+color: rgb(244, 244, 244);">CKJAEHCYVK</strong></td>
+=09=09=09=09=09</tr><tr><td height=3D"5" style=3D"height: 5px; line-height:=
+ 5px;">=C2=A0</td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"color: #8f8d8d; font-si=
+ze: 14px; font-family: Arial, sans-serif; padding-left: 10px;" width=3D"300=
+">Biciclete - Bicicleta sport, mountainbike, biciclete pentru agrement sau =
+pliabila, aici gasesti cele mai bune oferte si calitate garantata.<br><font=
+ face=3D"sans-serif, Arial, Verdana, Trebuchet MS" size=3D"2"><span style=
+=3D"line-height: 20.799999237060547px;"><strong><a href=3D"http://mandrilla=
+pp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d75c1db5d5ab396&u=
+rl=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F125234246%2F833310=
+7%2Fc92cae39328bbb75fd0607364e77cff7&url_id=3Dd1055c0855ad57488ac7996ecae23=
+cb19d2ff292" target=3D"_blank"><span style=3D"color:#FFFFFF;"><span style=
+=3D"background-color:#006400;">=C2=A0</span></span></a><a href=3D"http://ma=
+ndrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749838d75c1db5d5=
+ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F125234246%2=
+F8333101%2F0f8ae3307991a839eb800c484c29df2d&url_id=3Dd1055c0855ad57488ac799=
+6ecae23cb19d2ff292" target=3D"_blank"><span style=3D"color:#FFFFFF;"><span =
+style=3D"background-color:#006400;"> CUMPARA ACUM =C2=A0</span></span></a><=
+/strong></span></font></td>
+=09=09=09=09=09</tr><tr><td height=3D"5" style=3D"height: 5px; line-height:=
+ 5px;">=C2=A0</td>
+=09=09=09=09=09</tr></tbody></table></td>
+=09=09</tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"background-color: #ffffff; border-top:1px solid #e4e4e4; b=
+order-bottom:1px solid #e4e4e4; width: 100%"><tbody><tr><td align=3D"center=
+" valign=3D"bottom">
+=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"background-color: #fff; padding:0" width=3D"200"><tbody><tr=
+><td style=3D"color: #484848; font: 22px bold Arial, sans-serif; font-weigh=
+t: 800; padding-left: 10px;"><a href=3D"http://mandrillapp.com/track/click.=
+php?u=3D30048333&id=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fn=
+l.megaokazie-mail.eu%2Fclk%2F105087%2F125234246%2F8333105%2Fd3d50b5a3ddca15=
+d049273a8042c9655&url_id=3Dd1055c0855ad57488ac7996ecae23cb19d2ff292" id=3D"=
+" style=3D"font-weight: normal; line-height: 20.799999237060547px;" target=
+=3D"_blank"><font color=3D"#333333" face=3D"sans-serif, Arial, Verdana, Tre=
+buchet MS" size=3D"2"><img alt=3D"" src=3D"http://img.nl.megaokazie-mail.eu=
+/i/1a1ee01562a132c00229aa2cbcb93262/64438.jpg" style=3D"border-width: 0px; =
+border-style: solid; width: 250px; height: 173px;"></font></a></td>
+=09=09=09=09=09</tr></tbody></table><table align=3D"left" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" style=3D"background-color: #fff; padding:0"=
+ valign=3D"bottom" width=3D"380"><tbody><tr><td height=3D"25" style=3D"heig=
+ht: 25px; line-height: 25px;">=C2=A0</td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"color: #494949; font: 2=
+2px bold Arial, sans-serif; font-weight: 800; padding-left: 10px;"><strong>=
+<span style=3D"color:#006400;"><span style=3D"text-align: center; backgroun=
+d-color: rgb(244, 244, 244); font-weight: normal; line-height: 20.799999237=
+060547px;"><font face=3D"sans-serif, Arial, Verdana, Trebuchet MS" size=3D"=
+2">ARTICOLE iNGRIJIRE PERSONALA</font></span></span></strong></td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"color: #eb295d; font: 1=
+4px bold Arial, sans-serif; font-weight: 600; padding-left: 10px;"><span st=
+yle=3D"color:#FF0000;"><font face=3D"sans-serif, Arial, Verdana, Trebuchet =
+MS" size=3D"2"><span style=3D"font-weight: normal; line-height: 20.79999923=
+7060547px;"><span style=3D"text-align: center; background-color: rgb(244, 2=
+44, 244);">Cupon reducere - 10%</span></span></font></span><font color=3D"#=
+333333" face=3D"sans-serif, Arial, Verdana, Trebuchet MS" size=3D"2"><span =
+style=3D"font-weight: normal; line-height: 20.799999237060547px;"><span sty=
+le=3D"text-align: center; background-color: rgb(244, 244, 244);">=C2=A0</sp=
+an></span></font><strong style=3D"color: rgb(80, 80, 80); font-family: Helv=
+etica; font-size: 14px; line-height: 21px; text-align: center; background-c=
+olor: rgb(244, 244, 244);"><span style=3D"color: rgb(0, 128, 128);"><span s=
+tyle=3D"font-family: arial; line-height: normal;">LJ8HZCD9JA</span></span><=
+/strong></td>
+=09=09=09=09=09</tr><tr><td height=3D"5" style=3D"height: 5px; line-height:=
+ 5px;">=C2=A0</td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"color: #8f8d8d; font-si=
+ze: 14px; font-family: Arial, sans-serif; padding-left: 10px;" width=3D"300=
+">ingrijire personala la preturi promotionale. Epilatoare, aparate masaj. c=
+antare, truse manichiura-pedichiura, termometre, ondulatoaresi perii rotati=
+ve.<br><font color=3D"#333333" face=3D"sans-serif, Arial, Verdana, Trebuche=
+t MS" size=3D"2"><span style=3D"line-height: 20.799999237060547px;"><a href=
+=3D"http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6ab13749=
+838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%=
+2F125234246%2F8333102%2F93d4a2ba0d824e2494e65ab943c5dc7a&url_id=3Dd1055c085=
+5ad57488ac7996ecae23cb19d2ff292" id=3D"" target=3D"_blank"><span style=3D"b=
+ackground-color:#006400;">=C2=A0</span></a></span></font><strong><font face=
+=3D"sans-serif, Arial, Verdana, Trebuchet MS" size=3D"2"><span style=3D"lin=
+e-height: 20.799999237060547px;"><a href=3D"http://mandrillapp.com/track/cl=
+ick.php?u=3D30048333&id=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F=
+%2Fnl.megaokazie-mail.eu%2Fclk%2F105087%2F125234246%2F8333105%2Fd3d50b5a3dd=
+ca15d049273a8042c9655&url_id=3Dd1055c0855ad57488ac7996ecae23cb19d2ff292" ta=
+rget=3D"_blank"><span style=3D"color:#FFFFFF;"><span style=3D"background-co=
+lor:#006400;"> CUMPARA ACUM =C2=A0</span></span></a></span></font></strong>=
+</td>
+=09=09=09=09=09</tr><tr><td height=3D"5" style=3D"height: 5px; line-height:=
+ 5px;">=C2=A0</td>
+=09=09=09=09=09</tr></tbody></table></td>
+=09=09</tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"background-color: #ffffff; border-top:1px solid #e4e4e4; b=
+order-bottom:1px solid #e4e4e4; width: 100%"><tbody><tr><td align=3D"center=
+" valign=3D"bottom">
+=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"background-color: #fff; padding:0" width=3D"200"><tbody><tr=
+><td style=3D"color: #484848; font: 22px bold Arial, sans-serif; font-weigh=
+t: 800; padding-left: 10px;"><a href=3D"http://mandrillapp.com/track/click.=
+php?u=3D30048333&id=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fn=
+l.megaokazie-mail.eu%2Fclk%2F105087%2F125234246%2F8333103%2Fa370b6caa637763=
+5abf8f247bf229213&url_id=3Dd1055c0855ad57488ac7996ecae23cb19d2ff292" style=
+=3D"font-weight: normal; line-height: 20.799999237060547px;" target=3D"_bla=
+nk"><font color=3D"#333333" face=3D"sans-serif, Arial, Verdana, Trebuchet M=
+S" size=3D"2"><img alt=3D"" src=3D"http://img.nl.megaokazie-mail.eu/i/a1148=
+93602624dd069560e214149b568/64442.jpg" style=3D"border-width: 0px; border-s=
+tyle: solid; width: 250px; height: 173px;"></font></a></td>
+=09=09=09=09=09</tr></tbody></table><table align=3D"left" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" style=3D"background-color: #fff; padding:0"=
+ valign=3D"bottom" width=3D"380"><tbody><tr><td height=3D"25" style=3D"heig=
+ht: 25px; line-height: 25px;">=C2=A0</td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"text-align: center; fon=
+t-style: normal; font-variant: normal; padding-left: 10px;"><strong><span s=
+tyle=3D"color:#006400;"><span style=3D"background-color: rgb(244, 244, 244)=
+;">ARTICOLE UNELTE SI SCULE</span></span></strong></td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"color: #eb295d; font: 1=
+4px bold Arial, sans-serif; font-weight: 600; padding-left: 10px;"><span st=
+yle=3D"color:#FF0000;"><font face=3D"sans-serif, Arial, Verdana, Trebuchet =
+MS" size=3D"2"><span style=3D"font-weight: normal; line-height: 20.79999923=
+7060547px;"><span style=3D"text-align: center; background-color: rgb(244, 2=
+44, 244);">Cupon reducere - 5%</span></span></font></span><font color=3D"#3=
+33333" face=3D"sans-serif, Arial, Verdana, Trebuchet MS" size=3D"2"><span s=
+tyle=3D"font-weight: normal; line-height: 20.799999237060547px;"><span styl=
+e=3D"text-align: center; background-color: rgb(244, 244, 244);">=C2=A0</spa=
+n></span></font><span style=3D"color:#008080;"><font face=3D"sans-serif, Ar=
+ial, Verdana, Trebuchet MS" size=3D"2"><span style=3D"font-weight: normal; =
+line-height: 20.799999237060547px;"><strong><span style=3D"font-family: Hel=
+vetica; font-size: 14px; line-height: 21px; text-align: center; background-=
+color: rgb(244, 244, 244);">URVXD8AUNB</span></strong></span></font></span>=
+</td>
+=09=09=09=09=09</tr><tr><td height=3D"5" style=3D"height: 5px; line-height:=
+ 5px;">=C2=A0</td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"color: #8f8d8d; font-si=
+ze: 14px; font-family: Arial, sans-serif; padding-left: 10px;" width=3D"300=
+">Unelte si scule la preturi extraordinare. Avem unelte si scule pentru tam=
+plarie, unelte si scule pentru zidarie, unelte si scule pentru reparatii au=
+to sau pentru mici ateliere de reparatii.<br><font face=3D"sans-serif, Aria=
+l, Verdana, Trebuchet MS" size=3D"2"><span style=3D"line-height: 20.7999992=
+37060547px;"><a href=3D"http://mandrillapp.com/track/click.php?u=3D30048333=
+&id=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mai=
+l.eu%2Fclk%2F105087%2F125234246%2F8333100%2F61196fb2b81e94f279564456f74a37a=
+6&url_id=3Dd1055c0855ad57488ac7996ecae23cb19d2ff292" target=3D"_blank"><spa=
+n style=3D"color:#FFFFFF;"><span style=3D"background-color:#006400;">=C2=A0=
+</span></span></a><a href=3D"http://mandrillapp.com/track/click.php?u=3D300=
+48333&id=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazi=
+e-mail.eu%2Fclk%2F105087%2F125234246%2F8333103%2Fa370b6caa6377635abf8f247bf=
+229213&url_id=3Dd1055c0855ad57488ac7996ecae23cb19d2ff292" target=3D"_blank"=
+><span style=3D"color:#FFFFFF;"><span style=3D"background-color:#006400;"> =
+CUMPARA ACUM =C2=A0</span></span></a></span></font></td>
+=09=09=09=09=09</tr><tr><td height=3D"5" style=3D"height: 5px; line-height:=
+ 5px;">=C2=A0</td>
+=09=09=09=09=09</tr></tbody></table></td>
+=09=09</tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"background-color: #ffffff; border-top:1px solid #e4e4e4; b=
+order-bottom:1px solid #e4e4e4; width: 100%"><tbody><tr><td align=3D"center=
+" valign=3D"bottom">
+=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"background-color: #fff; padding:0" width=3D"200"><tbody><tr=
+><td style=3D"color: #484848; font: 22px bold Arial, sans-serif; font-weigh=
+t: 800; padding-left: 10px;"><a href=3D"http://mandrillapp.com/track/click.=
+php?u=3D30048333&id=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fn=
+l.megaokazie-mail.eu%2Fclk%2F105087%2F125234246%2F8333109%2Ff1274a5facf0835=
+068f1bea95e12165f&url_id=3Dd1055c0855ad57488ac7996ecae23cb19d2ff292" style=
+=3D"font-weight: normal; line-height: 20.799999237060547px;" target=3D"_bla=
+nk"><font color=3D"#333333" face=3D"sans-serif, Arial, Verdana, Trebuchet M=
+S" size=3D"2"><img alt=3D"" src=3D"http://img.nl.megaokazie-mail.eu/i/3e837=
+4bac2eb83df4c46ef93df15d5c1/64439.jpg" style=3D"border-width: 0px; border-s=
+tyle: solid; width: 250px; height: 175px;"></font></a></td>
+=09=09=09=09=09</tr></tbody></table><table align=3D"left" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" style=3D"background-color: #fff; padding:0"=
+ valign=3D"bottom" width=3D"380"><tbody><tr><td height=3D"25" style=3D"heig=
+ht: 25px; line-height: 25px;">=C2=A0</td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"color: #494949; font: 2=
+2px bold Arial, sans-serif; font-weight: 800; padding-left: 10px;"><span st=
+yle=3D"color:#006400;"><span style=3D"text-align: center; background-color:=
+ rgb(244, 244, 244); font-weight: normal; line-height: 20.799999237060547px=
+;"><font face=3D"sans-serif, Arial, Verdana, Trebuchet MS" size=3D"2">LENJE=
+RII DE PAT</font></span></span></td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"color: #eb295d; font: 1=
+4px bold Arial, sans-serif; font-weight: 600; padding-left: 10px;"><span st=
+yle=3D"color:#FF0000;"><font face=3D"sans-serif, Arial, Verdana, Trebuchet =
+MS" size=3D"2"><span style=3D"font-weight: normal; line-height: 20.79999923=
+7060547px;"><span style=3D"text-align: center; background-color: rgb(244, 2=
+44, 244);">Cupon reducere - 10%</span></span></font></span><font color=3D"#=
+333333" face=3D"sans-serif, Arial, Verdana, Trebuchet MS" size=3D"2"><span =
+style=3D"font-weight: normal; line-height: 20.799999237060547px;"><span sty=
+le=3D"text-align: center; background-color: rgb(244, 244, 244);">=C2=A0</sp=
+an><strong><span style=3D"color: rgb(0, 128, 128); font-family: Helvetica; =
+font-size: 14px; line-height: 21px; text-align: center; background-color: r=
+gb(244, 244, 244);">V8J0V5F6KT</span></strong></span></font></td>
+=09=09=09=09=09</tr><tr><td height=3D"5" style=3D"height: 5px; line-height:=
+ 5px;">=C2=A0</td>
+=09=09=09=09=09</tr><tr><td align=3D"left" style=3D"color: #8f8d8d; font-si=
+ze: 14px; font-family: Arial, sans-serif; padding-left: 10px;" width=3D"300=
+">Lenjerie de pat din bumbac, oferte lejerii de pat, lenjerii 3D confection=
+ate din bumbac 100%<br><strong><font face=3D"sans-serif, Arial, Verdana, Tr=
+ebuchet MS" size=3D"2"><span style=3D"line-height: 20.799999237060547px;"><=
+a href=3D"http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da893ed6a=
+b13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fclk%2F1=
+05087%2F125234246%2F8333108%2F9358535f35f52dc644049347d8e25b23&url_id=3Dd10=
+55c0855ad57488ac7996ecae23cb19d2ff292" target=3D"_blank"><span style=3D"col=
+or:#FFFFFF;"><span style=3D"background-color:#006400;">=C2=A0</span></span>=
+</a><a href=3D"http://mandrillapp.com/track/click.php?u=3D30048333&id=3Da89=
+3ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail.eu%2Fcl=
+k%2F105087%2F125234246%2F8333109%2Ff1274a5facf0835068f1bea95e12165f&url_id=
+=3Dd1055c0855ad57488ac7996ecae23cb19d2ff292" target=3D"_blank"><span style=
+=3D"color:#FFFFFF;"><span style=3D"background-color:#006400;"> CUMPARA ACUM=
+ =C2=A0</span></span></a></span></font></strong></td>
+=09=09=09=09=09</tr><tr><td height=3D"5" style=3D"height: 5px; line-height:=
+ 5px;">=C2=A0</td>
+=09=09=09=09=09</tr></tbody></table></td>
+=09=09</tr></tbody></table><span style=3D"line-height: 10px;">Ati primit ac=
+est Email deoarece v-ati inscris pe site-ul megaokazie.ro sau pe unul din s=
+iteurile partenerilor. Daca nu mai doriti sa primiti mesajele noastre va ru=
+gam folosititi linkul "dezabonare"</span>
+=09=09=09=09=09
+=09=09=09=09
+=09=09=09=09
+=09=09=09=09
+=09=09=09=09
+=09=09=09=09=09     <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%" style=3D"background-color:#de3737; text-align:center; height:50px; color=
+:#bababa; font-family:Arial, Helvetica, sans-serif; font-size:12px;"><tbody=
+><tr><td>
+=09=09=09=09=09         =09=09<table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"
+=09=09=09color: #636361;=09=09=09background-color: #e1e1e1;=09=09=09width: =
+600px;
+=09=09=09font-family: Arial, sans-serif;
+=09=09=09font-size: 11px;
+=09=09" width=3D"600"><tbody><tr><td style=3D"
+=09=09=09=09=09=09=09=09=09=09font-family: Arial, sans-serif;
+=09=09=09=09=09font-size: 11px;
+=09=09=09=09=09line-height: 18px;
+=09=09=09=09=09text-align: center;
+=09=09=09=09=09padding: 6px
+=09=09=09=09">
+=09=09=09=09<span id=3D"view_online_id">
+=09=09=09=09=09Pentru a vedea
+=09=09=09=09=09<a href=3D"http://mandrillapp.com/track/click.php?u=3D300483=
+33&id=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-m=
+ail.eu%2Fv%2F105087%2F125234246%2Fdfe6aa35e65ff7c18bbc2832fc8b285b&url_id=
+=3D06eb9ee923a0d83b3d36a0d890674f6f9b0e91cc" style=3D"
+=09=09=09=09=09=09=09font-weight:bold;
+=09=09=09=09=09=09=09color: #636361;=09=09=09=09=09=09">online</a>
+=09=09=09=09=09acest mesaj personalizat
+=09=09=09=09=09<a href=3D"http://mandrillapp.com/track/click.php?u=3D300483=
+33&id=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-m=
+ail.eu%2Fv%2F105087%2F125234246%2Fdfe6aa35e65ff7c18bbc2832fc8b285b&url_id=
+=3D06eb9ee923a0d83b3d36a0d890674f6f9b0e91cc" style=3D"
+=09=09=09=09=09=09=09font-weight:bold;
+=09=09=09=09=09=09=09color: #636361;=09=09=09=09=09=09">click aici</a>
+=09=09=09=09</span>
+=09=09=09=09<br>
+=09=09=09=09Pentru dezabonare instant
+=09=09=09=09<a href=3D"http://mandrillapp.com/track/click.php?u=3D30048333&=
+id=3Da893ed6ab13749838d75c1db5d5ab396&url=3Dhttp%3A%2F%2Fnl.megaokazie-mail=
+.eu%2Funsubscribe%2F1156%2F105087%2F125234246%2Fdfe6aa35e65ff7c18bbc2832fc8=
+b285b&url_id=3Dd1055c0855ad57488ac7996ecae23cb19d2ff292" style=3D"
+=09=09=09=09=09=09font-weight: bold;
+=09=09=09=09=09=09color: #636361;=09=09=09=09=09">click aici</a>.
+=09=09=09</td>
+=09=09</tr></tbody></table></td>
+=09=09=09=09=09      </tr></tbody></table></td>
+=09=09=09</tr></tbody></table></td></tr></table></body></html>
+
+
+--_av-Kpufh3BFtN2oeDOgUp4x0g--
