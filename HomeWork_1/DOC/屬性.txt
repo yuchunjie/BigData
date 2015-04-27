@@ -1,0 +1,9 @@
+屬性:
+1.Source IP
+2.IP→Geo
+3.Delivered to後面的網址
+4.http的格式或純文字
+5.http的網址
+6.是否有夾檔(檔案大小)
+
+
