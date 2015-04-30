@@ -1,0 +1,11 @@
+[1] 第一次玩Spark Shark 就上手 - Spark安裝篇 
+http://lab.howie.tw/2013/08/run-spark-in-standalone-deploy-mode.html
+
+[2] Apache Spark??：?Spark部署到Hadoop 2.2.0上
+http://dongxicheng.org/framework-on-yarn/build-spark-on-hadoop-2-yarn/
+
+[3] Apache Spark??：利用Eclipse构建Spark集成???境
+http://dongxicheng.org/framework-on-yarn/spark-eclipse-ide/
+
+[4] How to run simple Spark app from Eclipse/Intellij IDE?
+http://stackoverflow.com/questions/22639137/how-to-run-simple-spark-app-from-eclipse-intellij-ide
