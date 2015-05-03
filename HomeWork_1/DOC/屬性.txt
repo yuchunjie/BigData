@@ -1,9 +1,11 @@
-Äİ©Ê:
-1.Source IP
-2.IP¡÷Geo
-3.Delivered to«á­±ªººô§}
-4.httpªº®æ¦¡©Î¯Â¤å¦r
-5.httpªººô§}
-6.¬O§_¦³§¨ÀÉ(ÀÉ®×¤j¤p)
+å±¬æ€§:
+1.Source IP(src_ip, string)
+2.ç·¨ç¢¼(charset, string)("index" : "not_analyzed")
+3.Delivered toå¾Œé¢çš„ç¶²å€(delivered_to, string)("index" : "not_analyzed")
+4.httpçš„æ ¼å¼æˆ–ç´”æ–‡å­—(is_html, boolean)
+5.httpçš„ç¶²å€(hyperlink)
+6.æª”å(file_name, string)("index" : "not_analyzed")
+7.å¤§å°(file_length, long)
+
 
 
