@@ -27,7 +27,7 @@ POST /spammail
                   "type": "string"
                },
                "is_html": {
-                  "type": "string"
+                  "type": "boolean"
                },
                "line_id": {
                   "type": "long"
