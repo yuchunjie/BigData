@@ -1,0 +1,45 @@
+[注意]：修改field 的property，需要先將elasticsearch 整個index給刪除
+
+[Step 1]
+DELETE /spammail
+
+[Step 1.1]
+GET /spammail/_mapping/6attr
+
+[Step 2]
+POST /spammail
+{
+      "mappings": {
+         "6attr": {
+            "properties": {
+               "delivered_to": {
+                  "type": "string",
+                  "index" : "not_analyzed"
+               },
+               "file_length": {
+                  "type": "long"
+               },
+               "file_name": {
+                  "type": "string",
+                  "index" : "not_analyzed"
+               },
+               "hyperlink": {
+                  "type": "string"
+               },
+               "is_html": {
+                  "type": "string"
+               },
+               "line_id": {
+                  "type": "long"
+               },
+               "src_ip": {
+                  "type": "string"
+               }
+            }
+         }
+      }
+}
+
+[Step 3]
+利用 curl 將 JSON 檔案匯入到 Elasticsearch
+curl -XPOST localhost:9200/_bulk --data-binary @6attr_JSON.txt
