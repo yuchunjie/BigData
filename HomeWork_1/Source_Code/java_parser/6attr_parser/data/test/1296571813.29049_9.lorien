@@ -1,0 +1,74 @@
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 301 invoked from network); 1 Feb 2011 10:53:50 -0000
+Received: from bevserver.BeverlyCaulking.local (208-83-215-135.mdswireless.com [208.83.215.134])
+  by churchill.factcomp.com ([24.89.90.248])
+  with ESMTP via TCP; 01 Feb 2011 10:53:50 -0000
+X-ExAntiSpamFlags: IP_NO_PTR HELO_NOT_FQDN IP_PTR_NOT_FQDN SPF_GUESS 
+X-SPF-Guess: unknown (Exclaimer Mail Utilities: ProcessDomainPolicy unhandled error 8007232b) client-ip=146.145.84.18; envelope-from=PayPal@support.com.us; helo=User;
+X-ExSpamID: str=0001.0A020203.4D47EBEF.0116,ss=1,fgs=0
+X-SPF-Result: 7
+thread-index: AcvCAWtHimusntW+TACEWePndhOiHQ==
+Received: from User ([146.145.84.18]) by bevserver.BeverlyCaulking.local with Microsoft SMTPSVC(6.0.3790.4675); Tue, 1 Feb 2011 06:16:03 -0500
+Reply-To: <PayPal@support.com.us>
+From: "PayPal" <PayPal@support.com.us>
+Subject: Your account has been suspended
+Date: Tue, 1 Feb 2011 06:14:36 -0500
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0076_01C2A9A6.4EA04372"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.4721
+Content-Class: urn:content-classes:message
+Importance: normal
+Bcc: 
+Priority: normal
+Return-Path: <PayPal@support.com.us>
+Message-ID: <BEVSERVERFur2iz2Mb100004b27@bevserver.BeverlyCaulking.local>
+X-OriginalArrivalTime: 01 Feb 2011 11:16:03.0843 (UTC) FILETIME=[69F23D30:01CBC201]
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0076_01C2A9A6.4EA04372
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+
+Dear PayPal user,
+
+It has came to our atention that your account may have been accessed by an 
+unauthorized person using the following ip address: 149.225.126.87 !
+Please be aware that for your own safety, your account has been currently 
+suspended until we will verify your details.
+In order to start the verification please download and submit the PayPal Form ID 
+PP431 attached to this email.
+
+----------------------------------------------------------------------------------------------------
+
+DISCLAIMER :
+Individual(s) or entity named above and may contain information that is 
+privileged.
+If you are not the intended recipient, you are notified that any dissemination, 
+distribution or copying of this email is strictly prohibited.
+If you have received this email in error, please destroy the original message.
+
+
+Thank you for using PayPal.
+?? Copyright 2011 The PayPal Team
+Please do not reply to this e-mail. Mail sent to this address can not be 
+resolved.
+Email ID PP059 PayPal
+
+------=_NextPart_000_0076_01C2A9A6.4EA04372
+Content-Type: message/external-body; access-type=x-deleted; length=90614
+
+
+Content-Type: application/octet-stream;
+	name="PayPal_Form.html"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="PayPal_Form.html"
+
+------=_NextPart_000_0076_01C2A9A6.4EA04372--

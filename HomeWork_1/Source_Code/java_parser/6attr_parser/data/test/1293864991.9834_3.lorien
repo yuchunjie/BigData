@@ -1,0 +1,72 @@
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 13655 invoked from network); 1 Jan 2011 02:31:58 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Jan 2011 02:31:58 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Jan 2011 02:31:58 -0000
+Received: (qmail 20858 invoked from network); 1 Jan 2011 02:31:56 -0000
+Received: from dynamic-pool-xxx.hcm.fpt.vn (unknown [118.68.153.83])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 01 Jan 2011 02:30:43 -0000
+Received: from ubeacffdegc (192.168.1.4) by ubeacffdegc.mmarail.com (118.68.153.83) with Microsoft SMTP Server id 8.0.685.24; Fri, 0 Jan 2011 18:30:44 -0800
+Message-ID: <4D1E8F10.804040@ms2.hinet.net>
+Date: Fri, 0 Jan 2011 18:30:44 -0800
+From: "Lelia Hathaway" <i66666@ms2.hinet.net>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.12) Gecko/20101027 Thunderbird/3.1.6
+MIME-Version: 1.0
+To: <djue@bruce-guenter.dyndns.org>,
+	<ckaibmuv@bruce-guenter.dyndns.org>,
+	<devel-foijylzpvbvcaz@bruce-guenter.dyndns.org>,
+	<cvs@bruce-guenter.dyndns.org>
+Cc: <dgwtdgmuifww@bruce-guenter.dyndns.org>
+Subject: Fw: 
+Content-Type: multipart/alternative;
+ boundary="------------04090400307010302080902"
+
+This is a multi-part message in MIME format.
+--------------04090400307010302080902
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Timothy Workman
+
+--------------04090400307010302080902
+Content-Type: multipart/related;
+ boundary="------------06090500409050205060808"
+
+
+--------------06090500409050205060808
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+<center>
+<img border="0" src="cid:ed5f0c95ce0a$bffaa5f3$6ba5ee57$BVUPWWF" width="550" height="350" align="center">
+</center><br>
+Timothy Workman
+  </body>
+
+</html>
+
+--------------06090500409050205060808
+Content-Type: message/external-body; access-type=x-deleted; length=50306
+
+
+Content-Type: image/jpeg;
+ name="christmas.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <ed5f0c95ce0a$bffaa5f3$6ba5ee57$BVUPWWF>
+Content-Disposition: inline;
+ filename="christmas.jpg"
+
+--------------06090500409050205060808--
+
+
+--------------04090400307010302080902--
