@@ -1,4 +1,4 @@
-[ª`·N]¡G­×§ïfield ªºproperty¡A»İ­n¥ı±Nelasticsearch ¾ã­Óindexµ¹§R°£
+[æ³¨æ„]ï¼šä¿®æ”¹field çš„propertyï¼Œéœ€è¦å…ˆå°‡elasticsearch æ•´å€‹indexçµ¦åˆªé™¤
 
 [Step 1]
 DELETE /spammail
@@ -34,6 +34,10 @@ POST /spammail
                },
                "src_ip": {
                   "type": "string"
+               },
+               "charset": {
+                  "type": "string",
+                  "index" : "not_analyzed"
                }
             }
          }
@@ -41,5 +45,5 @@ POST /spammail
 }
 
 [Step 3]
-§Q¥Î curl ±N JSON ÀÉ®×¶×¤J¨ì Elasticsearch
+åˆ©ç”¨ curl å°‡ JSON æª”æ¡ˆåŒ¯å…¥åˆ° Elasticsearch
 curl -XPOST localhost:9200/_bulk --data-binary @6attr_JSON.txt
