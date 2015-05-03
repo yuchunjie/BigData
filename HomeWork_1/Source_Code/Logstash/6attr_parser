@@ -54,6 +54,9 @@ filter
 		{
 			match => ["message","Message-ID:\s(%{DATA:message_id})\n"]
 		}
+		grok {
+		    match => ["message","X-Originating-IP: %{DATA:x_originating_ip}\n"]
+		  }
 		grok 
 		{
 			match => ["message","Content-Type:\s(%{DATA:content_type})\n"]
