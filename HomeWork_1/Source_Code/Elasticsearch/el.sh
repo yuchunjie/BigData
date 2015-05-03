@@ -1,5 +1,3 @@
-#!/bin/bash
-
 curl -XDELETE http://localhost:9200/spam_mail
 
 curl -XPOST http://localhost:9200/spam_mail -d '
@@ -11,26 +9,67 @@ curl -XPOST http://localhost:9200/spam_mail -d '
                   "type": "string",
                   "index" : "not_analyzed"
                },
-               "file_length": {
-                  "type": "long"
+			   "date": {
+                  "type": "date",
+                  "index" : "not_analyzed"
                },
-               "file_name": {
+			   "from": {
                   "type": "string",
                   "index" : "not_analyzed"
                },
-               "hyperlink": {
-                  "type": "string"
+			   "to": {
+                  "type": "string",
+                  "index" : "not_analyzed"
                },
-               "is_html": {
-                  "type": "boolean"
+			   "subject": {
+                  "type": "string",
+                  "index" : "not_analyzed"
                },
-               "line_id": {
-                  "type": "long"
+			   "reply_to": {
+                  "type": "string",
+                  "index" : "not_analyzed"
                },
-               "src_ip": {
-                  "type": "string"
+			   "mime_version": {
+                  "type": "string",
+                  "index" : "not_analyzed"
                },
-               "charset": {
+			   "message_id": {
+                  "type": "string",
+                  "index" : "not_analyzed"
+               },			   
+			   "x_originating_ip": {
+                  "type": "string",
+                  "index" : "not_analyzed"
+               },
+			   "content_type": {
+                  "type": "string",
+                  "index" : "not_analyzed"
+               },
+			   "content_length": {
+                  "type": "long",
+                  "index" : "not_analyzed"
+               },
+			   "file_name": {
+                  "type": "string",
+                  "index" : "not_analyzed"
+               },
+			   "file_length": {
+                  "type": "long",
+                  "index" : "not_analyzed"
+               },
+			   "charset": {
+                  "type": "string",
+                  "index" : "not_analyzed"
+               },
+			   "received": {
+                  "type": "string",
+                  "index" : "not_analyzed"
+               },
+			   "ip": {
+                  "type": "string",
+                  "index" : "not_analyzed"
+               },
+			   "http": {
                   "type": "string",
                   "index" : "not_analyzed"
                }
@@ -38,5 +77,3 @@ curl -XPOST http://localhost:9200/spam_mail -d '
          }
       }
 }'
-
-
