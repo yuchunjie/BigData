@@ -24,60 +24,80 @@ filter
 	{
 		grok 
 		{	
-			match => ["message","Delivered-To:\s(%{DATA:Delivered})\n"]
+			match => ["message","Delivered-To:\s(%{DATA:delivered_to})\n"]
 		}
 		grok 
 		{
-			match => ["message","Date:\s(%{DATA:Date})[+|-][\d]{4}\n"]
+			match => ["message","Date:\s(%{DATA:date})[+|-][\d]{4}\n"]
 		}		
 		grok 
 		{
-			match => ["message","From:\s(%{DATA:From})\n"]
+			match => ["message","From:\s(%{DATA:from})\n"]
 		}
 		grok 
 		{
-			match => ["message","To:\s(%{DATA:To})\n"]
+			match => ["message","To:\s(%{DATA:to})\n"]
 		}
 		grok 
 		{
-			match => ["message","Subject:\s(%{DATA:Subject})\n"]
+			match => ["message","Subject:\s(%{DATA:subject})\n"]
 		}
 		grok 
 		{
-			match => ["message","Reply-To:\s(%{DATA:Reply-To})\n"]
+			match => ["message","Reply-To:\s(%{DATA:reply_to})\n"]
 		}
 		grok 
 		{
-			match => ["message","MIME-Version:\s(%{DATA:MIME-Version})\n"]
+			match => ["message","MIME-Version:\s(%{DATA:mime_version})\n"]
 		}
 		grok 
 		{
-			match => ["message","Message-ID:\s(%{DATA:Message-ID})\n"]
+			match => ["message","Message-ID:\s(%{DATA:message_id})\n"]
 		}
 		grok 
 		{
-			match => ["message","Content-Type:\s(%{DATA:Content-Type})\n"]
+			match => ["message","Content-Type:\s(%{DATA:content_type})\n"]
 		}
 		grok 
 		{
-			match => ["message","Content-Length:\s(%{DATA:Content-Length})\n"]
+			match => ["message","Content-Length:\s(%{DATA:content_length})\n"]
 		}
 		grok 
 		{
-			match => ["message","name=\"(%{DATA:File-Name})\""]
+			match => ["message","name=\"(%{DATA:file_name})\""]
 		}
+		grok
+		{
+			match => ["message","Content-Type:\s.*?length=(%{INT:file_length})"]
+		}
+		grok
+		{
+			match => ["message","charset=(%{DATA:charset})(\n|;|\s)"]
+			
+		}
+		mutate 
+		{
+			gsub  => [charset , "\"", ""]
+        }
 		ruby 
 		{
 			code => 
 			'
-				event["Received"] = event["message"].scan(/Received:\s(.*?[+|-][\d]{4})\n/xmi).flatten	
+				event["received"] = event["message"].scan(/Received:\s(.*?[+|-][\d]{4})\n/xmi).flatten	
 			'
 		}	
 		ruby 
 		{
 			code => 
 			'
-				event["IP"] = event["message"].scan(/(?<![0-9])(?:(?:25[0-5]|2[0-4][0-9]|[0-1]?[0-9]{1,2})[.](?:25[0-5]|2[0-4][0-9]|[0-1]?[0-9]{1,2})[.](?:25[0-5]|2[0-4][0-9]|[0-1]?[0-9]{1,2})[.](?:25[0-5]|2[0-4][0-9]|[0-1]?[0-9]{1,2}))(?![0-9])/xmi).flatten
+				event["ip"] = event["message"].scan(/(?<![0-9])(?:(?:25[0-5]|2[0-4][0-9]|[0-1]?[0-9]{1,2})[.](?:25[0-5]|2[0-4][0-9]|[0-1]?[0-9]{1,2})[.](?:25[0-5]|2[0-4][0-9]|[0-1]?[0-9]{1,2})[.](?:25[0-5]|2[0-4][0-9]|[0-1]?[0-9]{1,2}))(?![0-9])/xmi).flatten
+			'
+		}
+		ruby 
+		{
+			code => 
+			'
+				event["http"] = event["message"].scan(/(http:\/\/.*?)[\s|"|<|>|\n]/xmi).flatten
 			'
 		}
     }
