@@ -1,0 +1,237 @@
+{
+   "took": 320,
+   "timed_out": false,
+   "_shards": {
+      "total": 5,
+      "successful": 5,
+      "failed": 0
+   },
+   "hits": {
+      "total": 466376,
+      "max_score": 1,
+      "hits": [
+         {
+            "_index": "spam_mail",
+            "_type": "6attr",
+            "_id": "AU0jHuwu_ZdvH4s5Wb4f",
+            "_score": 1,
+            "fields": {
+               "charset": [
+                  "Shift_JIS"
+               ],
+               "to": [
+                  "lists-djb-ezmlm@bruce-guenter.dyndns.org"
+               ],
+               "content_type": [
+                  "multipart/mixed; "
+               ],
+               "delivered_to": [
+                  "lists-djb-ezmlm@bruce-guenter.dyndns.org"
+               ]
+            }
+         },
+         {
+            "_index": "spam_mail",
+            "_type": "6attr",
+            "_id": "AU0jHuwu_ZdvH4s5Wb4k",
+            "_score": 1,
+            "fields": {
+               "charset": [
+                  "Shift_JIS"
+               ],
+               "to": [
+                  "lists-reiserfs-list@bruce-guenter.dyndns.org"
+               ],
+               "content_type": [
+                  "multipart/mixed; "
+               ],
+               "delivered_to": [
+                  "lists-reiserfs-list@bruce-guenter.dyndns.org"
+               ]
+            }
+         },
+         {
+            "_index": "spam_mail",
+            "_type": "6attr",
+            "_id": "AU0jHuwu_ZdvH4s5Wb4p",
+            "_score": 1,
+            "fields": {
+               "charset": [
+                  "Shift_JIS"
+               ],
+               "to": [
+                  "lists-djb-ezmlm@bruce-guenter.dyndns.org"
+               ],
+               "content_type": [
+                  "text/plain; charset=Shift_JIS"
+               ],
+               "delivered_to": [
+                  "lists-djb-ezmlm@bruce-guenter.dyndns.org"
+               ]
+            }
+         },
+         {
+            "_index": "spam_mail",
+            "_type": "6attr",
+            "_id": "AU0jHuwu_ZdvH4s5Wb4u",
+            "_score": 1,
+            "fields": {
+               "charset": [
+                  "Shift_JIS"
+               ],
+               "to": [
+                  "lists-reiserfs-list@bruce-guenter.dyndns.org"
+               ],
+               "content_type": [
+                  "multipart/mixed; "
+               ],
+               "delivered_to": [
+                  "lists-reiserfs-list@bruce-guenter.dyndns.org"
+               ]
+            }
+         },
+         {
+            "_index": "spam_mail",
+            "_type": "6attr",
+            "_id": "AU0jHuwu_ZdvH4s5Wb4z",
+            "_score": 1,
+            "fields": {
+               "charset": [
+                  "Shift_JIS"
+               ],
+               "to": [
+                  "lists-bikini@bruce-guenter.dyndns.org"
+               ],
+               "content_type": [
+                  "multipart/mixed; "
+               ],
+               "delivered_to": [
+                  "lists-bikini@bruce-guenter.dyndns.org"
+               ]
+            }
+         },
+         {
+            "_index": "spam_mail",
+            "_type": "6attr",
+            "_id": "AU0jHuwu_ZdvH4s5Wb44",
+            "_score": 1,
+            "fields": {
+               "charset": [
+                  "Shift_JIS"
+               ],
+               "to": [
+                  "lists-linux-kernel@bruce-guenter.dyndns.org"
+               ],
+               "content_type": [
+                  "multipart/mixed; "
+               ],
+               "delivered_to": [
+                  "lists-linux-kernel@bruce-guenter.dyndns.org"
+               ]
+            }
+         },
+         {
+            "_index": "spam_mail",
+            "_type": "6attr",
+            "_id": "AU0jHuwu_ZdvH4s5Wb49",
+            "_score": 1,
+            "fields": {
+               "charset": [
+                  "Shift_JIS"
+               ],
+               "to": [
+                  "lists-djb-ezmlm@bruce-guenter.dyndns.org"
+               ],
+               "content_type": [
+                  "text/plain; charset=Shift_JIS"
+               ],
+               "delivered_to": [
+                  "lists-djb-ezmlm@bruce-guenter.dyndns.org"
+               ]
+            }
+         },
+         {
+            "_index": "spam_mail",
+            "_type": "6attr",
+            "_id": "AU0jHuwu_ZdvH4s5Wb5E",
+            "_score": 1,
+            "fields": {
+               "charset": [
+                  "Shift_JIS"
+               ],
+               "to": [
+                  "lists-reiserfs-list@bruce-guenter.dyndns.org"
+               ],
+               "content_type": [
+                  "multipart/mixed; "
+               ],
+               "delivered_to": [
+                  "lists-reiserfs-list@bruce-guenter.dyndns.org"
+               ]
+            }
+         },
+         {
+            "_index": "spam_mail",
+            "_type": "6attr",
+            "_id": "AU0jHuwu_ZdvH4s5Wb5J",
+            "_score": 1,
+            "fields": {
+               "charset": [
+                  "Shift_JIS"
+               ],
+               "to": [
+                  "lists-reiserfs-list@bruce-guenter.dyndns.org"
+               ],
+               "content_type": [
+                  "multipart/mixed; "
+               ],
+               "delivered_to": [
+                  "lists-reiserfs-list@bruce-guenter.dyndns.org"
+               ]
+            }
+         },
+         {
+            "_index": "spam_mail",
+            "_type": "6attr",
+            "_id": "AU0jHuwu_ZdvH4s5Wb5O",
+            "_score": 1,
+            "fields": {
+               "charset": [
+                  "iso-2022-jp"
+               ],
+               "to": [
+                  "lists-reiserfs-list@bruce-guenter.dyndns.org"
+               ],
+               "content_type": [
+                  "text/html; charset=\"iso-2022-jp\""
+               ],
+               "delivered_to": [
+                  "lists-reiserfs-list@bruce-guenter.dyndns.org"
+               ]
+            }
+         },
+         {
+            "_index": "spam_mail",
+            "_type": "6attr",
+            "_id": "AU0jHuwu_ZdvH4s5Wb5T",
+            "_score": 1,
+            "fields": {
+               "charset": [
+                  "iso-2022-jp"
+               ],
+               "to": [
+                  "lists-reiserfs-list@bruce-guenter.dyndns.org"
+               ],
+               "content_type": [
+                  "multipart/related;"
+               ],
+               "delivered_to": [
+                  "lists-reiserfs-list@bruce-guenter.dyndns.org"
+               ],
+               "file_name": [
+                  "f9ab.gif"
+               ]
+            }
+         }
+      ]
+   }
