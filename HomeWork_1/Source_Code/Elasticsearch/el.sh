@@ -10,7 +10,7 @@ curl -XPOST http://localhost:9200/spam_mail -d '
                   "index" : "not_analyzed"
                },
 			   "date": {
-                  "type": "date",
+                  "type": "string",
                   "index" : "not_analyzed"
                },
 			   "from": {

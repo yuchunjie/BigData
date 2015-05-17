@@ -1,5 +1,6 @@
-GET /spam_mail/_search
-{
+#!/bin/bash
+
+curl -XGET http://localhost:9200/spam_mail/_search -d '{
   "query": {
     "bool": {
       "must": [
@@ -16,4 +17,4 @@ GET /spam_mail/_search
   "sort": [],
   "facets": {},
   "fields": ["charset", "delivered_to", "content_type", "to", "file_name"]
-}
+}'
