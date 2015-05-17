@@ -1,0 +1,19 @@
+GET /spammail/_search
+{
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "match_all": {}
+        }
+      ],
+      "must_not": [],
+      "should": []
+    }
+  },
+  "from": 0,
+  "size": 1000000,
+  "sort": [],
+  "facets": {},
+  "fields": ["ip", "charset", "delivered_to", "content_type", "http", "file_name", "file_length"]
+}
