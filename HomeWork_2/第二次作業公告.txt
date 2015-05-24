@@ -1,0 +1,10 @@
+
+[第二次作業公告]
+請使用Spark的mllib相關方法，對於kdd99資料集(http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
+ )進行分析。
+
+繳交日期：2015/5/31
+
+ 作業內容：
+(1) 請以mllib的libsvm對於該資料集進行分類，並說明Precision與Recall的結果。
+(2) 請設計出一個更合適的分析方法，包含兩種以上不同方法的結合，並分析其效果
