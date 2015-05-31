@@ -1,0 +1,18 @@
+numClusters = 2
+numIterations = 100
+Result: Within Set Sum of Squared Errors = 8.225692243622847E13
+
+numClusters = 5
+numIterations = 100
+Result: Within Set Sum of Squared Errors = 9.983203958121885E12
+
+numClusters = 10
+numIterations = 100
+Result: Within Set Sum of Squared Errors = 2.9255161616756387E12
+
+numClusters = 22
+numIterations = 100
+Result: Within Set Sum of Squared Errors = 2.877757292072352E11
+
+
+
