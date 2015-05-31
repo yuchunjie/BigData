@@ -23,7 +23,8 @@ public class Main
     public static void main(String[] args)
     {
         Main m = new Main();
-        m.readFile("data/kddcup.data.corrected");
+        //m.readFile("data/kddcup.data.corrected");
+		m.readFile("data/kddcup.data_1_percent_corrected");
     }
 
     /**
@@ -32,7 +33,8 @@ public class Main
     public void readFile(String fileName)
     {
         BufferedReader br = null;
-        MyThread thread = new MyThread("data/kdd99_labeling.txt");
+		//MyThread thread = new MyThread("data/kdd99_labeling.txt");
+        MyThread thread = new MyThread("data/kdd99_labeling_1_percent.txt");
         thread.start();
         try {
             br = new BufferedReader(new InputStreamReader(new FileInputStream(new File(fileName)), "UTF8"));
