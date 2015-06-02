@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="run"  >
+<target name="run" description="how to get antrun plugin to work with SCP and SSH">
+  <echo message="Remember to fill empty fields..."/>
+  <scp trust="true" file="target/*.jar" todir="hadoop@140.118.170.192:/home/hadoop/spark/" keyfile="~/.ssh/hadoop.id_rsa" failonerror="true" sftp="true" verbose="off"/>
+  <sshexec trust="true" keyfile="~/.ssh/hadoop.id_rsa" host="140.118.170.192" failonerror="true" command="cd spark;/usr/share/spark-1.3.0-bin-hadoop2.4/bin/spark-submit --master spark://192.168.0.230:7077 --class tw.edu.ntust.ee305.bigdata.MLlibSVM SparkExample-1.0-SNAPSHOT.jar /user/hadoop/kdd/kddcup.data.gz 3" timeout="0" username="hadoop"/>
+  <taskdef classname="org.apache.tools.ant.taskdefs.optional.ssh.Scp" name="scp">
+    <classpath refid="maven.plugin.classpath"/>
+  </taskdef>
+</target>
+</project>
